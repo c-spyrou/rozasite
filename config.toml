@@ -1,6 +1,6 @@
 baseURL = 'https://www.afcroza.com/'
 languageCode = 'en-us'
-title = 'The Home of AFC Roza'
+title = 'AFC Roza'
 theme = "TatBanTheme2.0"
 disqusShortname = 'afcroza'
 
