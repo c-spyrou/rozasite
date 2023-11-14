@@ -77,7 +77,9 @@ p{
 
 .headercool {
   background-image: url('/Images/header3.png'); /* Set the image URL */
-  background-size: cover; /* Ensure the image covers the entire container */
+  background-size: cover;
+  min-width: 99%;
+  max-width: 100%; /* Ensure the image covers the entire container */
   background-position: center; /* Center the image within the container */
   background-repeat: no-repeat; /* Do not repeat the background image */
   /* Other styles for the header container */
@@ -219,7 +221,7 @@ blockquote cite:before { content: "\2014 \0020"; }
 
 .bg-tbbg{
 
-  background-color: #cd9b10;
+  background-color: #cd10bd;
 
 }
 
