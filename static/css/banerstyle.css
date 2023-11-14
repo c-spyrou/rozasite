@@ -61,7 +61,7 @@ p{
   font-size: 28px; 
 }
 
-
+/*
 .headercool{
   /*background-color: #eaefff; */  
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7fffb+35,dbeeff+75 */
@@ -71,9 +71,19 @@ p{
   background: radial-gradient(ellipse at center, rgba(247,255,251,1) 35%,rgba(219,238,255,1) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fffb', endColorstr='#dbeeff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     /* padding-top: 3em;
-    /* padding-bottom: 2.5em; */
+    /* padding-bottom: 2.5em; 
   }
+*/
 
+.headercool {
+  background-image: url('/Images/header.png'); /* Set the image URL */
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the image within the container */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  /* Other styles for the header container */
+  /* background-color: #eaefff; */
+  /* Gradient styles if needed */
+  }
 
 .mynav{
 background: black;  
