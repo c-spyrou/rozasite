@@ -40,7 +40,7 @@ disqusShortname = 'afcroza'
     url = "/news/"
     weight = 5
   [[menu.main]]
-    name = "Sponsprs"
+    name = "Sponsors"
     url = "/sponsors/"
     weight = 6
   [[menu.main]]
