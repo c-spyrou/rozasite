@@ -1,0 +1,60 @@
+baseURL = 'https://www.afcroza.com/'
+languageCode = 'en-us'
+title = 'AFC Roza'
+theme = "TatBanTheme2.0"
+disqusShortname = 'afcroza'
+
+
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true # Allow HTML in md files
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Our Journey"
+    url = "/journey/"
+    weight = 2
+  [[menu.main]]
+    name = "Squad"
+    url = "/squad/"
+    weight = 3
+  [[menu.main]]
+    name = "Fixtures & Results"
+    url = "/fixtures/"
+    weight = 4
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 5
+  [[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors/"
+    weight = 6
+  [[menu.main]]
+    name = "Shop"
+    url = "/shop/"
+    weight = 7
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 8
+
+    
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.60.0"
+    max = "0.97.0"
