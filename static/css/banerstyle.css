@@ -6,7 +6,7 @@
 position: sticky;
 top: 0;
 left: 0;
-bottom: 0;
+bottom: 10;
 margin-top: 0;
 margin-bottom: 0;
 z-index: 1;
@@ -61,31 +61,31 @@ p{
   font-size: 28px; 
 }
 
-/*
 .headercool{
-  /*background-color: #eaefff; */  
+  background-color: #6e145f;
+  height: 30px;  
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7fffb+35,dbeeff+75 */
   /* background: rgb(247,255,251); /* Old browsers */
   /* background: -moz-radial-gradient(center, ellipse cover, rgba(247,255,251,1) 35%, rgba(219,238,255,1) 75%);  FF3.6-15 */
-  /* background: -webkit-radial-gradient(center, ellipse cover, rgba(247,255,251,1) 35%,rgba(219,238,255,1) 75%); /* Chrome10-25,Safari5.1-6 */
-  /* background: radial-gradient(ellipse at center, rgba(247,255,251,1) 35%,rgba(219,238,255,1) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(247,255,251,1) 35%,rgba(219,238,255,1) 75%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, rgba(247,255,251,1) 35%,rgba(219,238,255,1) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fffb', endColorstr='#dbeeff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     /* padding-top: 3em;
-    /* padding-bottom: 2.5em; 
+    /* padding-bottom: 2.5em; */
   }
-*/
 
-.headercool {
+/* .headercool {
   background-image: url('/Images/header3.png'); /* Set the image URL */
-  background-size: cover;
+  /* background-size: cover;
   min-width: 99%;
   max-width: 100%; /* Ensure the image covers the entire container */
-  background-position: center; /* Center the image within the container */
-  background-repeat: no-repeat; /* Do not repeat the background image */
+  /* background-position: center; /* Center the image within the container */
+  /* background-repeat: no-repeat; /* Do not repeat the background image */
   /* Other styles for the header container */
   /* background-color: #eaefff; */
-  /* Gradient styles if needed */
-  }
+  /* Gradient styles if needed 
+  } */
+
 
 .mynav{
 background: black;  
