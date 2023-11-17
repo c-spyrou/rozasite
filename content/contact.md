@@ -4,7 +4,10 @@ layout: singlepage
 Description: "Contact Us"
 math: true
 ---
-
+<body style="background-color: lightsteelblue;">
+<br>
+<h1 style="font-size: 50px; font-weight: bold">Contact Us </h1>
+<br/>
 ### Ways to Contact {.tbh3}
 
 <br/><br/>

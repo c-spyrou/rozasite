@@ -4,6 +4,7 @@ layout: singlepage
 Description: "The companies making this all possible."
 math: true
 ---
+<body style="background-color: lightsteelblue;">
 <br>
 <h1 style="font-size: 50px; font-weight: bold">Sponsors </h1>
 <br/>
