@@ -11,8 +11,8 @@ math: true
 <h3 style="font-size: 20px">
 We are open to a discussion and will get back to you about any enquiries, whether they are regarding matters on or off the pitch. <br> <br>
 If you wish to contact us, use one of the following avenues: <br> <br>
-Email Address: afcroza@outlook.com   <a href="mailto:afcroza@outlook.com" target="_blank"><i class="bi bi-envelope-fill" style="font-size:22px"></i></a> <br>
-Instagram: @afcroza <a href="https://www.instagram.com/afcroza" target="_blank"><i class="bi bi-instagram" style="font-size:22px"></i></a> &nbsp &nbsp <br>
+Email Address: <a href="mailto:afcroza@outlook.com">afcroza@outlook.com</a>   <a href="mailto:afcroza@outlook.com" target="_blank"><i class="bi bi-envelope-fill" style="font-size:22px"></i></a> <br>
+Instagram: <a href="https://www.instagram.com/afcroza">@afcroza</a> <a href="https://www.instagram.com/afcroza" target="_blank"><i class="bi bi-instagram" style="font-size:22px"></i></a> &nbsp &nbsp <br>
 Contact number: <a href=“tel:+447825894886”>+447825894886</a>
 
 <br> <br>
