@@ -46,12 +46,12 @@ li:not(:last-child) {
 
 
 .myptag{
-  color: #857b99;
+  color: #000000;
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 p{
-  color: #7a7288;
+  color: #000000;
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -151,17 +151,17 @@ font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 blockquote{
   border-left: 1px solid #bbbab3;
-  color: #212522;
+  color: #000000;
   font-style: italic;
 
   margin: 0 0 1.25rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
-  border-left: 1.4px solid #585555;
+  border-left: 1.4px solid #000000;
 
   display: block;
   font-size: 0.99rem !important;
   /*color: #515b54;*/
-  color: #9995be;
+  color: #000000;
 
 
 }
@@ -172,7 +172,7 @@ blockquote cite:before { content: "\2014 \0020"; }
   display: block;
   font-size: 0.99rem;
   /* color: #07f84f; */
-  color: #9995be;
+  color: #c02d2d;
   
 }
 
@@ -195,6 +195,7 @@ blockquote cite:before { content: "\2014 \0020"; }
   font-weight: 700;
   font-style: bold;
   line-height: 1.4;
+  color: rgb(0, 0, 0);
   
   
 }
@@ -205,6 +206,7 @@ blockquote cite:before { content: "\2014 \0020"; }
   font-weight: bold;
   font-style: normal;
   line-height: 1.4;
+  color: rgb(0, 0, 0);
   
   
 }
@@ -215,6 +217,7 @@ blockquote cite:before { content: "\2014 \0020"; }
   font-weight: 350;
   font-style: normal;
   line-height: 1.4;
+  color: black;
   
   
 }
