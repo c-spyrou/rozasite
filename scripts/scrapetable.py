@@ -28,17 +28,29 @@ if response.status_code == 200:
 
     # Create a DataFrame using the extracted data and headers
     df = pd.DataFrame(data, columns=headers)
+    df = df.reset_index(drop=True)
 
-    # Append DataFrame content to an existing markdown file
-    markdown_file_path = "content/table.md"
-    with open(markdown_file_path, "a") as markdown_file:
-        # Add a header for the table
-        markdown_file.write("\n## League Table\n\n")
-        # Convert the DataFrame to markdown and write to the file
-        markdown_file.write(df.to_html(index=False))
-        markdown_file.write("\n\n")
+    # Apply styling to the DataFrame
+    styled_df = df.style \
+        .set_table_styles([
+            {'selector': 'th', 'props': [('text-align', 'left')]},  # Align titles left
+            {'selector': '.col1', 'props': [('font-weight', 'bold')]},  # Bold 'Team' column
+            {'selector': '.col9', 'props': [('font-weight', 'bold')]},  # Bold 'PTS' column
+            {'selector': 'td, th', 'props': [('padding', '10px')]}  # Add space between columns
+        ]) \
+        .set_table_attributes('class="dataframe"')  # Add a class to the table
+    
 
-    print(f"\nDataFrame content appended to the markdown file: {markdown_file_path}")
+    # Convert the styled DataFrame to HTML
+    styled_html = styled_df.to_html(index=False)
+    # Append HTML content to an existing HTML file
+    html_file_path = "content/table.html"
+    with open(html_file_path, "a") as html_file:
+        # Write the styled HTML to the file
+        html_file.write(styled_html)
+        html_file.write("\n\n")
+
+    print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
