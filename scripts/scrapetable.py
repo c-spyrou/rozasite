@@ -8,7 +8,6 @@ url = "https://fulltime.thefa.com/index.html?selectedSeason=403346465&selectedFi
 # Send a GET request to the URL
 response = requests.get(url)
 
-# Check if the request was successful (status code 200)
 if response.status_code == 200:
     # Parse the HTML content
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -28,7 +27,7 @@ if response.status_code == 200:
 
     # Create a DataFrame using the extracted data and headers
     df = pd.DataFrame(data, columns=headers)
-    df = df.reset_index(drop=True)
+    df = df.dropna()
 
     # Apply styling to the DataFrame
     styled_df = df.style \
@@ -42,7 +41,9 @@ if response.status_code == 200:
     
 
     # Convert the styled DataFrame to HTML
+    styled_df.hide(axis="index")
     styled_html = styled_df.to_html(index=False)
+
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
     with open(html_file_path, "a") as html_file:
