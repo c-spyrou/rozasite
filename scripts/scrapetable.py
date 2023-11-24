@@ -46,7 +46,7 @@ if response.status_code == 200:
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
-    with open(html_file_path, "a") as html_file:
+    with open(html_file_path, "w") as html_file:
         # Write the styled HTML to the file
         html_file.write(styled_html)
         html_file.write("\n\n")
