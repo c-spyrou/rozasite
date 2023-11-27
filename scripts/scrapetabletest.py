@@ -29,7 +29,11 @@ if response.status_code == 200:
     df = pd.DataFrame(data, columns=headers)
     df = df.dropna()
 
-    # Apply styling to the DataFrame
+    # Define a custom function to highlight cells containing 'AFC Roza'
+    def highlight_afc_roza(value):
+        return 'background-color: darkblue' if 'AFC Roza' in value else ''
+
+    # Apply styling to the DataFrame using applymap
     styled_df = df.style \
         .set_table_styles([
             {'selector': 'th', 'props': [('text-align', 'left')]},  # Align titles left
@@ -40,17 +44,15 @@ if response.status_code == 200:
         .set_table_attributes('class="dataframe"')  # Add a class to the table
 
     # Convert the styled DataFrame to HTML
-    styled_df.hide(axis="index")
     styled_html = styled_df.to_html(index=False)
 
-    # Append HTML content to an existing HTML file
+    # Write the HTML content to a file
     html_file_path = "content/table.html"
     with open(html_file_path, "w") as html_file:
-        # Write the styled HTML to the file
         html_file.write(styled_html)
         html_file.write("\n\n")
 
-    print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
+    print(f"\nStyled DataFrame content written to the HTML file: {html_file_path}")
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
