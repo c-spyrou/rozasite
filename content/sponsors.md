@@ -8,7 +8,7 @@ math: true
 <br>
 <h1 style="font-size: 50px; font-weight: bold">Sponsors </h1>
 <br/>
-<h5 class="tbh3">If you are interested in sponsoring the club and joining the Roza family, please contact us so we can break down our different sponsorship packages. Thank you! <br/> <br/> This page is dedicated to our wonderful sponsors who make everything possible. </h5> <br/>
+<h5 class="tbh3">If you are interested in sponsoring the club and joining the Roza family, please <a href="https://afcroza.com/contact" target="_blank">contact us</a> so we can break down our different sponsorship packages. Thank you! <br/> <hr> This page is dedicated to our wonderful sponsors who make everything possible. </h5> <br/>
 
 <div style = "text-align: center">
 <h2 align=center> Miyagi Bonsai </h2> <br>
