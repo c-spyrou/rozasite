@@ -13,7 +13,7 @@ driver = webdriver.Chrome()
 driver.get(url)
 
 # Allow some time for the dynamic content to load (adjust as needed)
-time.sleep(5)
+time.sleep(15)
 
 # Get the page source after dynamic content has loaded
 html_content = driver.page_source
@@ -32,13 +32,22 @@ if div_container:
     data = []
     headers = []
 
-    # Assume the relevant data is in child elements (e.g., divs or spans)
-    for i, child in enumerate(div_container.find_all(['div', 'span'])):
-        # Extract relevant data from each child
-        data.append(child.text.strip())
+    for row in div_container.find_all("tr"):
+        row_data = []
+        # Find all cells in the row
+        for cell in row.find_all(['td', 'th']):
+            row_data.append(cell.text.strip())
+        
+        if len(row_data) == len(headers) or not headers:
+            if not headers:
+                headers = row_data
+            else:
+                data.append(row_data)
+        else:
+            print(f"Skipping row with unexpected number of columns: {row_data}")
 
     # Create a DataFrame using the extracted data
-    df = pd.DataFrame(data, columns=['headers'])
+    df = pd.DataFrame(data, columns=headers)
     df = df.dropna()
 
     fixtures_html = df.to_html(index=False)
@@ -53,48 +62,3 @@ if div_container:
 else:
     print("Div container not found with the specified class.")
 
-
-# import requests
-# from bs4 import BeautifulSoup
-# import pandas as pd
-
-# # URL of the website to scrape
-# url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"
-
-# # Send a GET request to the URL
-# response = requests.get(url)
-
-# if response.status_code == 200:
-#     # Parse the HTML content
-#     soup = BeautifulSoup(response.text, 'html.parser')
-
-#     # Find the div with the specified class
-#     div_container = soup.find("div", class_="fixtures-table.table-scroll")
-
-#     if div_container:
-#         # Extract data from the div
-#         data = []
-#         headers = []
-
-#         # Assume the relevant data is in child elements (e.g., divs or spans)
-#         for i, child in enumerate(div_container.find_all(['div', 'span'])):
-#             # Extract relevant data from each child
-#             data.append(child.text.strip())
-
-#         # Create a DataFrame using the extracted data
-#         df = pd.DataFrame(data, columns=['headers'])
-#         df = df.dropna()
-
-#         fixtures_html = df.to_html(index=False)
-
-#         file_path = "content/fixtures.html"
-#         with open(file_path, "a") as html_file:
-#             # Write the styled HTML to the file
-#             html_file.write(fixtures_html)
-#             html_file.write("\n\n")
-
-#         print(f"\nStyled DataFrame content appended to the HTML file: {file_path}")
-#     else:
-#         print("Div container not found with the specified class.")
-# else:
-#     print(f"Failed to fetch the page. Status code: {response.status_code}")
