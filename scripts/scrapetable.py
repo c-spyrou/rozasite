@@ -48,7 +48,7 @@ if response.status_code == 200:
     with open(html_file_path, "w") as html_file:
         # Write the styled HTML to the file
         html_file.write(styled_html)
-        html_file.write("<br/>")
+        html_file.write("<br> <br>")
 
     print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
 

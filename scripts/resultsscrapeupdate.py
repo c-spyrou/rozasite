@@ -43,6 +43,8 @@ if div_container:
     # Create a DataFrame using the extracted data
     df = pd.DataFrame(data, columns=headers)
     df['Date & Time'] = df['Date & Time'].str.replace('\n', ' ')
+    df['Result'] = df['Result'].str.replace('\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n', ' ')
+
 
     df = df.dropna()
 
@@ -57,7 +59,7 @@ if div_container:
 
     # Identify the start and end positions based on the markers
     start_marker = "<h2 align=center> This Season's Results... </h2> <br>"
-    end_marker = '</table>'
+    end_marker = '<!-- end -->'
     start_index = existing_content.find(start_marker)
     end_index = existing_content.find(end_marker) + len(end_marker)
 
@@ -67,7 +69,7 @@ if div_container:
         html_file.write("<h2 align=center> This Season's Results... </h2> <br>")
         html_file.write(fixtures_html)
         html_file.write(existing_content[end_index:])
-        html_file.write("<br/>")
+        html_file.write("<br>")
 
     print(f"\nStyled DataFrame content appended to the HTML file: {file_path}")
 else:

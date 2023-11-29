@@ -38,7 +38,7 @@ if div_container:
         max_columns = max(max_columns, len(row_data))
 
     # Create a DataFrame using the extracted data
-    headers = ["Competition", "Date & Time", "Home", " ", "Score", " ", "Away"]
+    headers = ["Competition", "Date & Time", "Home", " ", "Result", " ", "Away"]
     df = pd.DataFrame(data, columns=headers)
     df = df.dropna()
 
