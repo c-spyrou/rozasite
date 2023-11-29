@@ -231,8 +231,25 @@ blockquote cite:before { content: "\2014 \0020"; }
 
 }
 
+table {
+  border-collapse: collapse;
+  width: 800px;
+  text-align: center;
 
+}
 
+th, td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-align: center;
+}
 
+th.team, td.team, th.pts, td.pts {
+  font-weight: bold;
+  text-align: center;
 
+}
 
+tr:hover {
+  background-color: #ff85ae;
+}
