@@ -68,8 +68,8 @@ if div_container:
         html_file.write(existing_content[:start_index])
         html_file.write("<h2 align=center> This Season's Results... </h2> <br>")
         html_file.write(fixtures_html)
+        html_file.write("<br> <!-- end -->")
         html_file.write(existing_content[end_index:])
-        html_file.write("<br>")
 
     print(f"\nStyled DataFrame content appended to the HTML file: {file_path}")
 else:
