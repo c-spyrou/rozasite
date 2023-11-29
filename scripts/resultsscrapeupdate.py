@@ -25,7 +25,7 @@ driver.quit()
 soup = BeautifulSoup(html_content, 'html.parser')
 
 # Find the div with the specified class
-div_container = soup.find("div", class_="fixtures-table table-scroll")
+div_container = soup.find("div", class_="results-table table-scroll")
 
 if div_container:
     # Extract data from the table
@@ -37,19 +37,37 @@ if div_container:
         data.append(row_data)
         max_columns = max(max_columns, len(row_data))
 
+    # Manually specify column headers based on your knowledge of the table structure
+    headers = ["Competition", "Date & Time", "Home", " ", "Result", " ", "Away", "Status"]
+
     # Create a DataFrame using the extracted data
-    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]
     df = pd.DataFrame(data, columns=headers)
+    df['Date & Time'] = df['Date & Time'].str.replace('\n', ' ')
+
     df = df.dropna()
 
     fixtures_html = df.to_html(index=False)
 
+    # File path
     file_path = "content/fixtures.html"
-    with open(file_path, "a") as html_file:
-        # Write the styled HTML to the file
-        html_file.write("<h2 align=center> Upcoming Matches... </h2> <br>")
+
+    # Read the existing content from the file
+    with open(file_path, "r") as html_file:
+        existing_content = html_file.read()
+
+    # Identify the start and end positions based on the markers
+    start_marker = "<h2 align=center> This Season's Results... </h2> <br>"
+    end_marker = '</table>'
+    start_index = existing_content.find(start_marker)
+    end_index = existing_content.find(end_marker) + len(end_marker)
+
+    # Write the new content, replacing the existing content from the identified point
+    with open(file_path, "w") as html_file:
+        html_file.write(existing_content[:start_index])
+        html_file.write("<h2 align=center> This Season's Results... </h2> <br>")
         html_file.write(fixtures_html)
-        html_file.write("\n\n")
+        html_file.write(existing_content[end_index:])
+        html_file.write("<br/>")
 
     print(f"\nStyled DataFrame content appended to the HTML file: {file_path}")
 else:

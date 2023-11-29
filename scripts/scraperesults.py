@@ -25,7 +25,7 @@ driver.quit()
 soup = BeautifulSoup(html_content, 'html.parser')
 
 # Find the div with the specified class
-div_container = soup.find("div", class_="fixtures-table table-scroll")
+div_container = soup.find("div", class_="results-table table-scroll")
 
 if div_container:
     # Extract data from the table
@@ -38,7 +38,7 @@ if div_container:
         max_columns = max(max_columns, len(row_data))
 
     # Create a DataFrame using the extracted data
-    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]
+    headers = ["Competition", "Date & Time", "Home", " ", "Score", " ", "Away"]
     df = pd.DataFrame(data, columns=headers)
     df = df.dropna()
 
@@ -47,9 +47,9 @@ if div_container:
     file_path = "content/fixtures.html"
     with open(file_path, "a") as html_file:
         # Write the styled HTML to the file
-        html_file.write("<h2 align=center> Upcoming Matches... </h2> <br>")
+        html_file.write("<h2 align=center> This Season's Results... </h2> <br>")
         html_file.write(fixtures_html)
-        html_file.write("\n\n")
+        html_file.write("<br>")
 
     print(f"\nStyled DataFrame content appended to the HTML file: {file_path}")
 else:
