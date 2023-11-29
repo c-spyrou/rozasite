@@ -32,7 +32,7 @@ if response.status_code == 200:
     # Apply styling to the DataFrame
     styled_df = df.style \
         .set_table_styles([
-            {'selector': 'th', 'props': [('text-align', 'left')]},  # Align titles left
+            {'selector': 'th', 'props': [('text-align', 'centre')]},  # Align titles left
             {'selector': '.col1', 'props': [('font-weight', 'bold')]},  # Bold 'Team' column
             {'selector': '.col9', 'props': [('font-weight', 'bold')]},  # Bold 'PTS' column
             {'selector': 'td, th', 'props': [('padding', '10px')]}  # Add space between columns
@@ -45,12 +45,35 @@ if response.status_code == 200:
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
+
+
+    with open(html_file_path, "r") as html_file:
+        existing_content = html_file.read()
+
+    # Identify the start and end positions based on the markers
+    start_marker = '<style type="text/css">'
+    end_marker = '<!-- end -->'
+    start_index = existing_content.find(start_marker)
+    end_index = existing_content.find(end_marker) + len(end_marker)
+
+    # Write the new content, replacing the existing content between the markers
     with open(html_file_path, "w") as html_file:
-        # Write the styled HTML to the file
+        html_file.write(existing_content[:start_index])
         html_file.write(styled_html)
-        html_file.write("<br> <br>")
+        html_file.write("<br> <br> <!-- end -->")
+        html_file.write(existing_content[end_index:])
 
     print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
+
+#     with open(html_file_path, "w") as html_file:
+#         # Write the styled HTML to the file
+#         html_file.write(styled_html)
+#         html_file.write("<br> <br>")
+
+#     print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
+
+# else:
+#     print(f"Failed to fetch the page. Status code: {response.status_code}")
