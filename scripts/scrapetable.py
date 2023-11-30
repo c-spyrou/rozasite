@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://fulltime.thefa.com/index.html?selectedSeason=403346465&selectedFixtureGroupAgeGroup=0&selectedDivision=962266925&selectedCompetition=0"
+url = "https://fulltime.thefa.com/index.html?selectedSeason=403346465&selectedFixtureGroupAgeGroup=0&selectedDivision=962266925&selectedCompetition=0"  # noqa: E501
 
 # Send a GET request to the URL
 response = requests.get(url)
@@ -32,10 +32,10 @@ if response.status_code == 200:
     # Apply styling to the DataFrame
     styled_df = df.style \
         .set_table_styles([
-            {'selector': 'th', 'props': [('text-align', 'centre')]},  # Align titles left
-            {'selector': '.col1', 'props': [('font-weight', 'bold')]},  # Bold 'Team' column
-            {'selector': '.col9', 'props': [('font-weight', 'bold')]},  # Bold 'PTS' column
-            {'selector': 'td, th', 'props': [('padding', '10px')]}  # Add space between columns
+            {'selector': 'th', 'props': [('text-align', 'centre')]},  # Align titles left  # noqa: E501
+            {'selector': '.col1', 'props': [('font-weight', 'bold')]},  # Bold 'Team' column  # noqa: E501
+            {'selector': '.col9', 'props': [('font-weight', 'bold')]},  # Bold 'PTS' column  # noqa: E501
+            {'selector': 'td, th', 'props': [('padding', '10px')]}  # Add space between columns  # noqa: E501
         ]) \
         .set_table_attributes('class="dataframe"')  # Add a class to the table
 
@@ -45,7 +45,6 @@ if response.status_code == 200:
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
-
 
     with open(html_file_path, "r") as html_file:
         existing_content = html_file.read()
@@ -63,17 +62,7 @@ if response.status_code == 200:
         html_file.write("<br> <br> <!-- end -->")
         html_file.write(existing_content[end_index:])
 
-    print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
+    print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")  # noqa: E501
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
-
-#     with open(html_file_path, "w") as html_file:
-#         # Write the styled HTML to the file
-#         html_file.write(styled_html)
-#         html_file.write("<br> <br>")
-
-#     print(f"\nStyled DataFrame content appended to the HTML file: {html_file_path}")
-
-# else:
-#     print(f"Failed to fetch the page. Status code: {response.status_code}")
