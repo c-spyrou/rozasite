@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"
+url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"  # noqa: E501
 
-# Set up the selenium webdriver (make sure you have the appropriate webdriver installed)
+# Set up the selenium webdriver
 driver = webdriver.Chrome()
 
 # Send a GET request to the URL using selenium
@@ -37,8 +37,8 @@ if div_container:
         data.append(row_data)
         max_columns = max(max_columns, len(row_data))
 
-    # Manually specify column headers based on your knowledge of the table structure
-    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]
+    # Columns
+    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]  # noqa: E501
 
     # Create a DataFrame using the extracted data
     df = pd.DataFrame(data, columns=headers)
@@ -61,7 +61,6 @@ if div_container:
     start_index = existing_content.find(start_marker)
     end_index = existing_content.find(end_marker) + len(end_marker)
 
-    # Write the new content, replacing the existing content from the identified point
     with open(file_path, "w") as html_file:
         html_file.write(existing_content[:start_index])
         html_file.write("<h2 align=center> Upcoming Matches... </h2> <br>")

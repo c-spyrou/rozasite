@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"
+url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"  # noqa: E501
 
-# Set up the selenium webdriver (make sure you have the appropriate webdriver installed)
+# Set up the selenium webdriver
 driver = webdriver.Chrome()
 
 # Send a GET request to the URL using selenium
@@ -38,7 +38,7 @@ if div_container:
         max_columns = max(max_columns, len(row_data))
 
     # Create a DataFrame using the extracted data
-    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]
+    headers = ["Competition", "Date & Time", "Home", " ", "vs", " ", "Away", "Venue"]  # noqa: E501
     df = pd.DataFrame(data, columns=headers)
     df = df.dropna()
 

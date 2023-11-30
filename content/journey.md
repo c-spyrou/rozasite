@@ -10,7 +10,7 @@ math: true
 <br/>
 
 <h5 align="justify">
-On a hot summer’s day in 2020, five friends went for a kickabout in the local park. 
+On a hot summer’s day in 2020, five friends went for a kickabout in the local park.
 As they sat down to drink some water, one of the lads jokingly asked the rest, ‘Why don’t we create our own team?’ and from that point on, the work began from transforming this dream into reality. <br> <br>
 </h5>
 <div style = "text-align: center">
