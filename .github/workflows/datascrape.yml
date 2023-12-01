@@ -28,5 +28,5 @@ jobs:
       - name: Run Results Scraping Script
         run: python resultsscrapingscript.py
 
-    - name: Run Scraping of Table
-      run: python scrapetable.py
+    -   name: Run Scraping of Table
+        run: python scrapetable.py
