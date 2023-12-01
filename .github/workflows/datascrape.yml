@@ -1,9 +1,9 @@
----
+---  # yamllint disable-line rule:new-lines
 name: Weekly Data Scraping
 
 on:
   schedule:
-    - cron: '0 6 * * 1' # Run every Monday at 6 am
+    - cron: '0 6 * * 1'  # Run every Monday at 6 am
 
 jobs:
   run-scripts:
@@ -11,22 +11,22 @@ jobs:
 
     steps:
       - name: Checkout Repository
-      uses: actions/checkout@v2
+        uses: actions/checkout@v2
 
       - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
       - name: Install Dependencies
-      run: |
+        run: |
         pip install -r requirements.txt
 
       - name: Run Fixture Scraping Script
-      run: python fixturesscrapeupdate.py
+        run: python fixturesscrapeupdate.py
 
       - name: Run Results Scraping Script
-      run: python resultsscrapingscript.py
+        run: python resultsscrapingscript.py
 
     - name: Run Scraping of Table
-      run: scrapetable.py
+      run: python scrapetable.py
