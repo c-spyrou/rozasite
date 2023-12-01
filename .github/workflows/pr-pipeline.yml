@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-# This workflow executes several linters on changed files based on languages used in your code base whenever 
-# you push a code or open a pull request.
-#
-# You can adjust the behavior by modifying this file.
-# For more information, see:
-# https://github.com/github/super-linter
-name: Lint Code Base
-=======
 name: $(TeamProject)_$(Build.DefinitionName)_$(SourceBranchName)_$(Date:yyyyMMdd)$(Rev:.r)
->>>>>>> 3d054ba1992e61ecf986397494f4f0e1b08f3237
 
 trigger: none
 
