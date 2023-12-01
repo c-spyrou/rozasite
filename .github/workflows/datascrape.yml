@@ -1,3 +1,4 @@
+---
 name: Weekly Data Scraping
 
 on:
@@ -9,22 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
+      - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Set up Python
+      - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
 
-    - name: Install Dependencies
+      - name: Install Dependencies
       run: |
         pip install -r requirements.txt
 
-    - name: Run Fixture Scraping Script
+      - name: Run Fixture Scraping Script
       run: python fixturesscrapeupdate.py
 
-    - name: Run Results Scraping Script
+      - name: Run Results Scraping Script
       run: python resultsscrapingscript.py
 
     - name: Run Scraping of Table
