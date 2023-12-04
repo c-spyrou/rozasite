@@ -3,7 +3,7 @@ name: Weekly Data Scraping
 
 on:
   schedule:
-    - cron: '0 13 * * 1'  # Run every Monday at 6 am
+    - cron: '0 14 * * 1'  # Run every Monday at 2pm
 
 jobs:
   run-scripts:
