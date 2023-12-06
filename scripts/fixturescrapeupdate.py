@@ -10,6 +10,8 @@ url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&team
 # Set up the selenium webdriver
 chrome_options = Options()
 chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome()
 
 # Send a GET request to the URL using selenium
