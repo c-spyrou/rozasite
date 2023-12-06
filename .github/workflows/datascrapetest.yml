@@ -1,6 +1,6 @@
 name: Weekly Data Scraping
 on:
-  workflow_dipsatch: {}
+  workflow_dispatch: {}
   schedule:
     - cron: '0 13 * * *' # every day at 8 am
 
