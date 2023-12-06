@@ -20,3 +20,7 @@ jobs:
         python scripts/fixturescrapeupdate.py
         python scripts/resultsscrapeupdate.py
         python scripts/scrapetable.py
+
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
