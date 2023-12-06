@@ -17,6 +17,6 @@ jobs:
 
     - name: Scrape Files
       run: |
-        python fixturescrapeupdate.py
-        python resultsscrapeupdate.py
-        python scrapetable.py
+        python scripts/fixturescrapeupdate.py
+        python scripts/resultsscrapeupdate.py
+        python scripts/scrapetable.py
