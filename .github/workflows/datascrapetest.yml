@@ -1,0 +1,21 @@
+name: Weekly Data Scraping
+on:
+  schedule:
+    - cron: '0 13 * * *' # every day at 8 am
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@master
+
+    - name: Install Python Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Scrape Files
+      run: |
+        python fixturescrapeupdate.py
+        python resultsscrapeupdate.py
+        python scrapetable.py
