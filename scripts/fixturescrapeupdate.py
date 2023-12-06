@@ -1,5 +1,6 @@
 import time
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -7,6 +8,8 @@ import pandas as pd
 url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"  # noqa: E501
 
 # Set up the selenium webdriver
+chrome_options = Options()
+chrome_options.add_argument('--no-sandbox')
 driver = webdriver.Chrome()
 
 # Send a GET request to the URL using selenium
