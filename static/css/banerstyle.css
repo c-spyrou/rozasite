@@ -222,7 +222,13 @@ blockquote cite:before { content: "\2014 \0020"; }
   
 }
 
-
+.tbh5 {
+  margin-top: 10px;
+  font-weight: 800;
+  font-style: normal;
+  line-height: 1.4;
+  color: black;
+}
 
 
 .bg-tbbg{
