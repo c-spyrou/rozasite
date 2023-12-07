@@ -1,0 +1,39 @@
+name: PR Pipeline (CI Tests)
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    strategy:
+      matrix:
+        python-version: [3.9, 3.10, 3.11]
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+      working-directory: tests/ci
+
+    - name: Run tests
+      run: |
+        pytest --junitxml=TEST-shiftleft.xml
+      working-directory: tests/ci
+
+    - name: Publish Test Results
+      uses: actions/upload-artifact@v2
+      with:
+        name: test-results
+        path: tests/ci/TEST-*.xml
