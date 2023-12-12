@@ -41,7 +41,7 @@ In the second half, it become a very feisty affair with the referee struggling t
 
 <h2> October </h2> <hr>
 
-We went into October on the back of two losses, so the boys really needed to start the month well. 
+We went into October on the back of two losses, so the boys really needed to start the month well.
 
 The first opponent of October was another familiar one: PS Birlikspor. We had faced this team twice last season, winning once 6-0 and losing the other 4-3 - so we knew that it would not be an easy game. An excellent start to the game from Roza, littered with wasted chances, saw a goal completely against the run of play scored - and we went 1-0 down. A defensive error went punished, however the message from the team was loud and clear: keep playing how we are, and the goals will come.
 
