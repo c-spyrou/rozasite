@@ -4,15 +4,11 @@ layout: singlepage
 Description: "November's Player of the Month"
 draft: false
 url: "/mbpotm-nov23/"
-date: "2020-08-22"
 ---
 
 <body style="background-color: lightsteelblue;">
 <br>
 <h1 style="font-size: 45px; font-weight: bold">Player of the Month: November 2023 </h1>
-
-
-<p>Last updated: </p>
 
 <br/>
 
