@@ -21,7 +21,7 @@ Here's how we've got on so far...
 After much anticipation, September was upon us and our first fixture was an away one against AFC Rose. This game was to take place at a familiar location for Roza: last season's home pitch, Aylands Open Space.
 
 <div style="text-align: center;">
-<img src="../Images/aylandsrose.JPG" width="40%" alt="Rose away" />
+<img src="../Images/aylandsrose.JPG" width="60%" alt="Rose away" />
 </div>
 <br>
 
@@ -57,6 +57,11 @@ Back at home against AFC Oakwood, it was a similar story. October was proving to
 
 A tough month was capped off with a rainy trip to Enfield Grammar School, where South Tottenham United were the hosts. Roza's pressing and possession play was leading to chance after chance and we finally took the lead through Cal Cook, however the hosts came back and led 2-1 before Sajith Rajaratnam scored from 25 yards to take us into the break at 2-2.
 
+<div style="text-align: center;">
+<img src="../Images/stua.jpg" width="60%" alt="STU away" />
+</div>
+<br>
+
 The boys knew that, if chances kept being created at this rate, goals would come - and they were right. Steph Savva got his goal, before Cal added another and substitute Adam Shaw finished off the game, continuing his impressive goals-per-minute ratio. Roza continued our impressive away form in tough conditions, taking home a 2-5 win.
 
 <hr>
@@ -68,6 +73,11 @@ November started with a home fixture against PS Birlikspor, and the long-awaited
 Birlikspor are always a combative opponent with a feisty edge, but when their player headbutted a member of our squad in the 75th minute, it was clear that they had crossed the line. The referee and players decidede that this was adequate to suspend a game which was already decided, and we took the 4-0 win, albeit on a sour ending.
 
 Next, Inter Manresa 24 were the visitors. We knew that we were in for a tough game against a side who had won all of their games so far this season.
+
+<div style="text-align: center;">
+<img src="../Images/manresahome.JPG" width="60%" alt="Manresa Home" />
+</div>
+<br>
 
 Roza were raring to go, and started excellently: Saj Rajaratnam's header put us 1-0 up, and Ben Reynolds' low strike was fumbled by the goalkeeper into the back of the net to make it 2. Roza were dominating a good team and confidence was high.
 
