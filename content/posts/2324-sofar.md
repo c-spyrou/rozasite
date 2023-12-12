@@ -68,7 +68,14 @@ The boys knew that, if chances kept being created at this rate, goals would come
 
 <h2> November </h2> <hr>
 
-November started with a home fixture against PS Birlikspor, and the long-awaited first home win of the season was really needed. A strong performance from the boys made sure that this was to be the case, and Cal Cook continued his strong form getting on the scoresheet twice; with Chris Johnson getting one from centre-back, and Iddo scoring a direct free-kick off the post.
+November started with a home fixture against PS Birlikspor, and the long-awaited first home win of the season was really needed.
+
+<div style="text-align: center;">
+<img src="../Images/birlikh.JPG" width="60%" alt="Manresa Home" />
+</div>
+<br>
+
+A strong performance from the boys made sure that this was to be the case, and Cal Cook continued his strong form getting on the scoresheet twice; with Chris Johnson getting one from centre-back, and Iddo scoring a direct free-kick off the post.
 
 Birlikspor are always a combative opponent with a feisty edge, but when their player headbutted a member of our squad in the 75th minute, it was clear that they had crossed the line. The referee and players decidede that this was adequate to suspend a game which was already decided, and we took the 4-0 win, albeit on a sour ending.
 
