@@ -39,10 +39,12 @@ Terry Savva &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons
 Michael Georgiades &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Saj Rajaratnam <br> <br>
 Danny Smith &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> &nbsp;
-<img src="https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg" width ="5%" alt = "Denmark flag"> <br> <br>
+<img src="https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg" width ="4%" alt = "Denmark flag"> <br> <br>
 Ben Reynolds &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
 Cal Cook &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> &nbsp;
 <img src="https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg" width ="6%" alt = "USA flag"> <br> <br>
+Luke Alfano &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" width ="5%" alt = "Italy flag"> <br> <br>
 
 <hr>
 <h2 style="font-size: 35px; color: grey; text-shadow: 2px 1px 1px #ff85ae;"> ATTACKERS </h2>
