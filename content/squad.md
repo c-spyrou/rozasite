@@ -37,7 +37,7 @@ Eric Schmidt &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thu
 Rees Colgan &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
 Terry Savva &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Michael Georgiades &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
-Saj Rajaratnam <br> <br>
+Saj Rajaratnam &nbsp;&nbsp;<img src="https://cdn.britannica.com/13/4413-050-98188B5C/Flag-Sri-Lanka.jpg" width ="6%" alt = "Sri Lanka flag" /> <br> <br>
 Danny Smith &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> &nbsp;
 <img src="https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg" width ="4%" alt = "Denmark flag"> <br> <br>
 Ben Reynolds &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
@@ -56,4 +56,4 @@ Alex Andreou &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/common
 Steph Savva &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Adam Shaw &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
 Cam Mutale &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png" width ="5%" alt = "Scotland flag" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png" width ="5%" alt = "Zambia flag" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png" width ="4.8%" alt = "Zambia flag"> 
