@@ -9,16 +9,16 @@ math: true
 <h1 style="font-size: 50px; font-weight: bold">Squad </h1>
 
 <hr>
-<h2 style="font-size: 35px; color: grey; text-shadow: 2px 1px 1px #ff85ae;"> GOALKEEPERS </h2>
+<h2 style="font-size: 35px; color: grey;  text-shadow: 2px 1px 1px #ff85ae;"> GOALKEEPERS </h2>
 <h2 style="font-size: 2px"> <br> </h2>
-<h4 style="font-size: 23px" align="left"> 
+<h4 style="font-size: 23px" align="left">
 Rajan Ranu &nbsp;&nbsp;<img src="https://flagpoles.co.uk/wp-content/uploads/2019/07/India.png" width ="5%" alt = "India flag" /><br> <br>
 Nicholas Christou &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" />
 
 <hr>
 <h2 style="font-size: 35px; color: grey; text-shadow: 2px 1px 1px #ff85ae;"> DEFENDERS </h2>
 <h2 style="font-size: 2px"> <br> </h2>
-<h4 style="font-size: 23px" align="left"> 
+<h4 style="font-size: 23px" align="left">
 Deano Spyrou &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Reece Denny &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_Italy_%281946%E2%80%932003%29.png" width ="5%" alt = "Italy flag"> <br> <br>
@@ -33,7 +33,7 @@ Eric Schmidt &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thu
 <hr>
 <h2 style="font-size: 35px; color: grey; text-shadow: 2px 1px 1px #ff85ae;"> MIDFIELDERS </h2>
 <h2 style="font-size: 2px"> <br> </h2>
-<h4 style="font-size: 23px" align="left"> 
+<h4 style="font-size: 23px" align="left">
 Rees Colgan &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
 Terry Savva &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Michael Georgiades &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
@@ -49,11 +49,11 @@ Luke Alfano &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thum
 <hr>
 <h2 style="font-size: 35px; color: grey; text-shadow: 2px 1px 1px #ff85ae;"> ATTACKERS </h2>
 <h2 style="font-size: 2px"> <br> </h2>
-<h4 style="font-size: 23px" align="left"> 
+<h4 style="font-size: 23px" align="left">
 
 Iddo Razin &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png" width ="5%" alt = "Israel flag" /> <br> <br>
 Alex Andreou &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Steph Savva &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" /> <br> <br>
 Adam Shaw &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png" width ="5%" alt = "England flag" /> <br> <br>
 Cam Mutale &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/1200px-Flag_of_Scotland.svg.png" width ="5%" alt = "Scotland flag" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png" width ="4.8%" alt = "Zambia flag"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1280px-Flag_of_Zambia.svg.png" width ="4.8%" alt = "Zambia flag">
