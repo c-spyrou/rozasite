@@ -43,29 +43,29 @@ class TestHugo:
     def test_index_page(self, url):
         """check the index page is configured correctly"""
         page_url = get_default_url(url)
-        page_title = "Home | " + get_default_title()
+        page_title = get_default_title()
 
         self.load_index_page(url)
         assert page_title == self.driver.title
         assert page_url == self.driver.current_url
         self.driver.save_screenshot("test_index_page_00.png")
 
-    # def test_rasci_page(self, url):
-    #     """check the first post is configured correctly"""
-    #     self.load_index_page(url)
+    def test_journey_page(self, url):
+        """check the journey page is configured correctly"""
+        self.load_index_page(url)
 
-    #     page_url = get_default_url(url)+"posts/rasci/"
-    #     page_title = "Rasci | "+get_default_title()
+        page_url = get_default_url(url)+"journey/"
+        page_title = get_default_title() + " | Our Journey"
 
-    #     all_posts = self.get_button_by_link_name("All Posts")
-    #     all_posts.click()
+        our_journey = self.get_button_by_link_name("Our Journey")
+        our_journey.click()
 
-    #     first_post = self.get_button_by_link_name("Rasci")
-    #     first_post.click()
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
 
-    #     self.wait_for_page_to_load(page_url, page_title)
+        self.wait_for_page_to_load(page_url, page_title)
 
-    #     assert page_title == self.driver.title
-    #     assert page_url == self.driver.current_url
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
 
-    #     self.driver.save_screenshot("test_first_post_00.png")
+        # self.driver.save_screenshot("test_first_post_00.png")
