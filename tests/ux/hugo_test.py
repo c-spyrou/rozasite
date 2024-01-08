@@ -69,3 +69,63 @@ class TestHugo:
         assert page_url == self.driver.current_url
 
         # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_squad_page(self, url):
+        """check the squad page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"squad/"
+        page_title = get_default_title() + " | Squad"
+
+        our_journey = self.get_button_by_link_name("Squad")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_table_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"table/"
+        page_title = get_default_title() + " | League Table"
+
+        our_journey = self.get_button_by_link_name("League Table")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_fixtures_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"fixtures/"
+        page_title = get_default_title() + " | Fixtures & Results"
+
+        our_journey = self.get_button_by_link_name("Fixtures & Results")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
