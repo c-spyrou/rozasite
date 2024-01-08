@@ -129,3 +129,83 @@ class TestHugo:
         assert page_url == self.driver.current_url
 
         # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_news_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"news/"
+        page_title = get_default_title() + " | News"
+
+        our_journey = self.get_button_by_link_name("News")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_sponsors_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"sponsors/"
+        page_title = get_default_title() + " | Sponsors"
+
+        our_journey = self.get_button_by_link_name("Sponsors")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_shop_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"shop/"
+        page_title = get_default_title() + " | Shop"
+
+        our_journey = self.get_button_by_link_name("Shop")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
+
+    def test_contact_page(self, url):
+        """check the league table page is configured correctly"""
+        self.load_index_page(url)
+
+        page_url = get_default_url(url)+"contact/"
+        page_title = get_default_title() + " | Contact"
+
+        our_journey = self.get_button_by_link_name("Contact")
+        our_journey.click()
+
+        # first_post = self.get_button_by_link_name("Rasci")
+        # first_post.click()
+
+        self.wait_for_page_to_load(page_url, page_title)
+
+        assert page_title == self.driver.title
+        assert page_url == self.driver.current_url
+
+        # self.driver.save_screenshot("test_first_post_00.png")
