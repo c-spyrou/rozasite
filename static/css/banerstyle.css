@@ -102,6 +102,11 @@ font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 .nav-link{
 color: #ff85ae !important; 
