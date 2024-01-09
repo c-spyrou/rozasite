@@ -1,0 +1,278 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
+@import url(https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700);
+
+.sticky{
+position: sticky;
+top: 0;
+left: 0;
+bottom: 0;
+margin-top: 0;
+margin-bottom: 0;
+z-index: 1;
+}
+
+.container-fluid{
+padding-left: 0 !important;
+padding-right: 0 !important;
+
+}
+
+
+a:link {
+  color: #000000;
+}
+
+
+a:visited {
+  /* color: #666099 ; */
+  color: #760a61;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff85ae;
+  
+}
+
+a{
+font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+li:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+
+
+.myptag{
+  color: #000000;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p{
+  color: #000000;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.myptagnew{
+  margin: 5px;
+  color: #000000;
+  font-size: 28px; 
+}
+
+.headercool{
+  background-color: #000000;
+  height: auto;  
+  display: block;
+  max-width: 100%;
+  scale: 100%;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7fffb+35,dbeeff+75 */
+  /* background: rgb(247,255,251); /* Old browsers */
+  /* background: -moz-radial-gradient(center, ellipse cover, rgba(247,255,251,1) 35%, rgba(219,238,255,1) 75%);  FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(247,255,251,1) 35%,rgb(255, 133, 174) 75%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, rgba(247,255,251,1) 35%,rgba(255, 133, 174) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fffb', endColorstr='#dbeeff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    /* padding-top: 3em;
+    /* padding-bottom: 2.5em; */
+  }
+
+/* .headercool {
+  background-image: url('/Images/header3.png'); /* Set the image URL */
+  /* background-size: cover;
+  min-width: 99%;
+  max-width: 100%; /* Ensure the image covers the entire container */
+  /* background-position: center; /* Center the image within the container */
+  /* background-repeat: no-repeat; /* Do not repeat the background image */
+  /* Other styles for the header container */
+  /* background-color: #eaefff; */
+  /* Gradient styles if needed 
+  } */
+
+
+.mynav{
+background: black;  
+font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 2.4;
+  letter-spacing: 0;
+  text-transform: none;
+  
+}
+
+
+.nav-link{
+color: #ff85ae !important; 
+font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nav-link:visited{
+  color: #e2e5fa; 
+  }
+
+.nav-link:hover {
+  color: #7b779c !important;
+}
+
+
+.polaroid {
+  position: static;
+  width: 355px;
+}
+
+.polaroid img {
+  border: 10px solid #edeef3;
+  border-bottom: 70px solid #eaedf1;
+  -webkit-box-shadow: 8.5px 25px 35px #777;
+     -moz-box-shadow: 8.5px 25px 35px #777;
+          box-shadow: 8.5px 25px 35px #777;
+}
+
+.polaroid p {
+  position: relative;
+  text-align: center;
+  width: 100%;
+  bottom: 5000px;
+  font: 400 18px/1 'Kaushan Script', cursive;
+  color: #7a7878;
+}
+
+
+.mymarginleft {
+  padding-left: 30px !important;
+}
+
+.mymarginright {
+  padding-right: 30px !important;
+}
+
+
+blockquote{
+  border-left: 1px solid #bbbab3;
+  color: #000000;
+  font-style: italic;
+
+  margin: 0 0 1.25rem;
+  padding: 0.5625rem 1.25rem 0 1.1875rem;
+  border-left: 1.4px solid #000000;
+
+  display: block;
+  font-size: 0.99rem !important;
+  /*color: #515b54;*/
+  color: #000000;
+
+
+}
+
+blockquote cite:before { content: "\2014 \0020"; }
+
+.tbcite {
+  display: block;
+  font-size: 0.99rem;
+  /* color: #07f84f; */
+  color: #c02d2d;
+  
+}
+
+.tbcite a:link {
+  color: #000000;
+}
+
+.tbcite a:visited {
+  color: #5e0350;
+}
+
+.tbcite a:hover {
+  color: #0d81fe;
+}
+
+
+.tbh2{
+  
+  font-family:'Libre Baskerville', serif;;
+  font-weight: 700;
+  font-style: bold;
+  line-height: 1.4;
+  color: rgb(0, 0, 0);
+  
+  
+}
+
+.tbh3{
+  
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.4;
+  color: rgb(0, 0, 0);
+  
+  
+}
+
+.tbh4{
+  
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 350;
+  font-style: normal;
+  line-height: 1.4;
+  color: black;
+  
+  
+}
+
+/* h5 {
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: normal;
+  line-height: 1.4;
+  color: black;
+}
+
+.tbh5 {
+  margin-top: 10px;
+  font-weight: 200;
+  font-style: normal;
+  line-height: 1.4;
+  color: black;
+} */
+
+h5 a:link {
+  color: black; /* Set the link color for h5 elements */
+}
+
+.tbh5 a:link {
+  color: black; /* Set the link color for h5 elements with class tbh5 */
+}
+
+
+
+.bg-tbbg{
+
+  background-color: #ff85ae;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 800px;
+  text-align: center;
+
+}
+
+th, td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-align: center;
+}
+
+th.team, td.team, th.pts, td.pts {
+  font-weight: bold;
+  text-align: center;
+
+}
+
+tr:hover {
+  background-color: #ff85ae;
+}
