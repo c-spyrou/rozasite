@@ -12,7 +12,7 @@ math: true
 
 <div style = "text-align: center">
 <h2 align=center> Miyagi Bonsai </h2> <br>
-<a href="https://miyagibonsai.co.uk"><img src="/Images/miyagi_nobg.png" class="img-fluid" style="max-width: 500px;" alt="Miyagi Bonsai" /></a>
+<a href="https://miyagibonsai.co.uk"><img src="/Images/miyagi_nobg.png" class="img-fluid" style="max-width: 100%;" alt="Miyagi Bonsai" /></a>
 <br> <br>
 </div>
 <blockquote class="blockquote">
