@@ -37,7 +37,7 @@ if response.status_code == 200:
             {'selector': '.col9', 'props': [('font-weight', 'bold')]},  # Bold 'PTS' column  # noqa: E501
             {'selector': 'td, th', 'props': [('padding', '10px')]}  # Add space between columns  # noqa: E501
         ]) \
-        .set_table_attributes('class="dataframe"')  # Add a class to the table
+        .set_table_attributes('class="dataframe" style="max-width: 100%"')  # Add a class to the table
 
     # Convert the styled DataFrame to HTML
     styled_df.hide(axis="index")
