@@ -42,6 +42,8 @@ if response.status_code == 200:
     # Convert the styled DataFrame to HTML
     styled_df.hide(axis="index")
     styled_html = styled_df.to_html(index=False)
+    styled_html = styled_html.replace('<table', '<table style="max-width: 100%;"')
+
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
