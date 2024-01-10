@@ -107,6 +107,10 @@ img {
   height: auto;
 }
 
+table {
+  max-width: 100%;
+}
+
 
 .nav-link{
 color: #ff85ae !important; 
