@@ -62,14 +62,14 @@ if div_container:
         existing_content = html_file.read()
 
     # Identify the start and end positions based on the markers
-    start_marker = "<h2 align=center> This Season's Results... </h2> <br>"
+    start_marker = "<!-- Scrape results from here onwards -->"
     end_marker = '<!-- end -->'
     start_index = existing_content.find(start_marker)
     end_index = existing_content.find(end_marker) + len(end_marker)
 
     with open(file_path, "w") as html_file:
         html_file.write(existing_content[:start_index])
-        html_file.write("<h2 align=center> This Season's Results... </h2> <br>")  # noqa: E501
+        html_file.write("<!-- Scrape results from here onwards -->")  # noqa: E501
         html_file.write(fixtures_html)
         html_file.write("<br> <!-- end -->")
         html_file.write(existing_content[end_index:])
