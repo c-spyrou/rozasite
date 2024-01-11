@@ -10,7 +10,40 @@ math: true
 <br/>
 
 <style type="text/css">
-  @media (max-width: 768px) {
+
+@media (max-width: 768px) {
+  #T_95483 {
+    width: 300px; /* Adjust the width as needed */
+  }
+
+  #T_95483 th,
+  #T_95483 td {
+    white-space: nowrap;
+    border-collapse: collapse;
+    width: auto; /* Allow columns to scale down */
+    display: none;
+  }
+
+  #T_95483 th.col0,
+  #T_95483 td.col0,
+  #T_95483 th.col1,
+  #T_95483 td.col1,
+  #T_95483 th.col2,
+  #T_95483 td.col2,
+  #T_95483 th.col8,
+  #T_95483 td.col8,
+  #T_95483 th.col9,
+  #T_95483 td.col9 {
+    display: table-cell;
+  }
+
+  #T_95483 th.col1,
+  #T_95483 td.col1 {
+    width: 100px;
+  }
+}
+
+  /* @media (max-width: 768px) {
             #T_95483 th:not(.col0, .col1, .col2, .col8, .col9),
             #T_95483 td:not(.col0, .col1, .col2, .col8, .col9),
             #T_95483 th.col2::before,
@@ -46,7 +79,7 @@ math: true
               width: 100px
             }
 
-  }
+  } */
 
 
 
