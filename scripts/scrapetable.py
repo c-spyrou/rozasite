@@ -70,3 +70,4 @@ if response.status_code == 200:
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
+
