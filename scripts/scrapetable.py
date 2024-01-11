@@ -52,7 +52,7 @@ if response.status_code == 200:
         existing_content = html_file.read()
 
     # Identify the start and end positions based on the markers
-    start_marker = '<style type="text/css">'
+    start_marker = '<!-- scrape from here onwards -->'
     end_marker = '<!-- end -->'
     start_index = existing_content.find(start_marker)
     end_index = existing_content.find(end_marker) + len(end_marker)
@@ -60,6 +60,8 @@ if response.status_code == 200:
     # Write the new content, replacing the existing content between the markers
     with open(html_file_path, "w") as html_file:
         html_file.write(existing_content[:start_index])
+        html_file.write(start_marker)
+        html_file.write(" ")
         html_file.write(styled_html)
         html_file.write("<br> <br> <!-- end -->")
         html_file.write(existing_content[end_index:])
