@@ -42,6 +42,8 @@ if response.status_code == 200:
     # Convert the styled DataFrame to HTML
     styled_df.hide(axis="index")
     styled_html = styled_df.to_html(index=False)
+    styled_html = styled_html.replace('<table', '<table style="max-width: 100%;"')
+
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
@@ -50,7 +52,7 @@ if response.status_code == 200:
         existing_content = html_file.read()
 
     # Identify the start and end positions based on the markers
-    start_marker = '<style type="text/css">'
+    start_marker = '<!-- scrape from here onwards -->'
     end_marker = '<!-- end -->'
     start_index = existing_content.find(start_marker)
     end_index = existing_content.find(end_marker) + len(end_marker)
@@ -58,6 +60,8 @@ if response.status_code == 200:
     # Write the new content, replacing the existing content between the markers
     with open(html_file_path, "w") as html_file:
         html_file.write(existing_content[:start_index])
+        html_file.write(start_marker)
+        html_file.write(" ")
         html_file.write(styled_html)
         html_file.write("<br> <br> <!-- end -->")
         html_file.write(existing_content[end_index:])
@@ -66,3 +70,4 @@ if response.status_code == 200:
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
+
