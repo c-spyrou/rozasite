@@ -6,44 +6,16 @@ math: true
 ---
 <style>
 @media (max-width: 768px) {
-  .dataframe {
-    width: 300px; /* Adjust the width as needed */
-  }
-
-  .dataframe th,
-  .dataframe td {
-    white-space: nowrap;
-    border-collapse: collapse;
-    width: auto; /* Allow columns to scale down */
+  .dataframe th:nth-child(8),
+  .dataframe td:nth-child(8),
+  .dataframe th:nth-child(4),
+  .dataframe td:nth-child(4),
+  .dataframe th:nth-child(6),
+  .dataframe td:nth-child(6) {
     display: none;
   }
-
-  .dataframe th.col0,
-  .dataframe td.col0,
-  .dataframe th.col1,
-  .dataframe td.col1,
-  .dataframe th.col2,
-  .dataframe td.col2,
-  .dataframe th.col4,
-  .dataframe td.col4,
-  .dataframe th.col6,
-  .dataframe td.col6 {
-    display: table-cell;
-  }
-
-  .dataframe th.col0,
-  .dataframe td.col0,
-  .dataframe th.col1,
-  .dataframe td.col1,
-  .dataframe th.col2,
-  .dataframe td.col2,
-  .dataframe th.col4,
-  .dataframe td.col4,
-  .dataframe th.col6,
-  .dataframe td.col6 {
-    width: auto; /* Allow these specific columns to scale down */
-  }
 }
+
 </style>
 
 <body style="background-color: lightsteelblue;">
