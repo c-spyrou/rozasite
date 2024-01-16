@@ -7,22 +7,34 @@ math: true
 
 <body style="background-color: lightsteelblue;">
 <br>
-<h1 style="font-size: 50px; font-weight: bold">Fixtures & Results </h1> <br/>
+<h1 style="font-size: 50px; font-weight: bold">Fixtures & Results </h1> 
+<br/>
 
-  <img src="../Images/fixturesheader.JPG" align=central height="126.95" width="846.3" alt="Header image" />
-<br>
-<br>
 <style>
 @media (max-width: 768px) {
-  .dataframe th:nth-child(8),
-  .dataframe td:nth-child(8),
-  .dataframe th:nth-child(4),
-  .dataframe td:nth-child(4),
-  .dataframe th:nth-child(6),
-  .dataframe td:nth-child(6) {
-    display: none;
+  .dataframe {
+    width: 300px}
   }
-}
+
+  /* .dataframe th,
+  .dataframe td {
+    white-space: nowrap;
+    border-collapse: collapse;
+    width: auto;
+    display: none;
+  } */
+  .dataframe th.col0,
+  .dataframe td.col0,
+  .dataframe th.col1,
+  .dataframe td.col1,
+  .dataframe th.col2,
+  .dataframe td.col2,
+  .dataframe th.col4,
+  .dataframe td.col4,
+  .dataframe th.col6,
+  .dataframe td.col6 {
+    display: table-cell;
+  }
 
 </style>
 <h2 align=center> Upcoming Matches... </h2> <br>
