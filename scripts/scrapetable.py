@@ -42,7 +42,7 @@ if response.status_code == 200:
     # Convert the styled DataFrame to HTML
     styled_df.hide(axis="index")
     styled_html = styled_df.to_html(index=False)
-    styled_html = styled_html.replace('<table', '<table style="max-width: 100%;"')
+    styled_html = styled_html.replace('<table', '<table style="max-width: 100%;"')  # noqa: E501
 
     # Append HTML content to an existing HTML file
     html_file_path = "content/table.html"
@@ -69,4 +69,3 @@ if response.status_code == 200:
 
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
-
