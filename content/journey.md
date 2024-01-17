@@ -27,7 +27,7 @@ Our first season as a club was 2022/23, and we were put in Division 6 – the ei
 As a result of our impressive campaign, we were moved up five leagues into the third tier of the Barnet Sunday Football League – Division 1. We are currently competing in this division, trying to keep the club’s positive trajectory going – and hopefully ending it with some silverware! <br> <br> </h5>
 
 <h4 style="color: #ff85ae; font-style: italic; text-shadow: 2px 1px 1px #808080;">
-Stayed tuned using this website as we fight to go up the ranks. 
+Stayed tuned using this website as we fight to go up the ranks.
 <br> <br> The journey has only just begun… <br> <br/>
 
 <h2 align="left" class="tbh3">#UTR <a href="/"><img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
