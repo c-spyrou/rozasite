@@ -17,7 +17,7 @@ As they sat down to drink some water, one of the lads jokingly asked the rest, �
 <img src="../Images/journey.png" height="126.95" width="846.3" alt="Journey Header" /> <br> <br>
 </div>
 <h5 align="justify">
-The groundwork started from 2020, including processes to set up the club branding including naming and kits; and conversations were had daily regarding our visions for the club both in the short-term and long-term. Lots of hard work went into facilitating a sustainable football club to compete amongst the best both on and off the pitch. <br> <br>
+The groundwork started from 2020, including processes to set up the club branding including naming and kits; and conversations were had daily regarding our visions for the club both in the short-term and long-term. Lots of hard work went into facilitating a sustainable football club to compete amongst the best in our local area, both on and off the pitch. <br> <br>
 <hr>
 <br>
 Our first season as a club was 2022/23, and we were put in Division 6 – the eighth tier of the Barnet Sunday Football League. We celebrated a win in our first ever league match, beating Camden Town Athletic 4-3. At the end of the season, we narrowly missed out on the title, finishing in second place; but it was clear that our level on the pitch was far above a number of our league counterparts. <br> <br/>
@@ -27,6 +27,7 @@ Our first season as a club was 2022/23, and we were put in Division 6 – the ei
 As a result of our impressive campaign, we were moved up five leagues into the third tier of the Barnet Sunday Football League – Division 1. We are currently competing in this division, trying to keep the club’s positive trajectory going – and hopefully ending it with some silverware! <br> <br> </h5>
 
 <h4 style="color: #ff85ae; font-style: italic; text-shadow: 2px 1px 1px #808080;">
-The journey has only just begun… <br> <br/>
+Stayed tuned using this website as we fight to go up the ranks. 
+<br> <br> The journey has only just begun… <br> <br/>
 
 <h2 align="left" class="tbh3">#UTR <a href="/"><img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
