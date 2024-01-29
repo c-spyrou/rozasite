@@ -1,7 +1,7 @@
 ---
-title: "Match Report - Trent Park (H)"
+title: "Match Report - AFC Rose (H)"
 layout: singlepage
-Description: "Trent Park at home in the league"
+Description: "AFC Rose at home in the league"
 draft: false
 url: "/trent_h_2324/"
 ---
