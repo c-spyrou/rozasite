@@ -14,7 +14,7 @@ url: "/afcrose_h_2324/"
 A sunny Sunday morning in North London was the setting, with a ‘Rose Derby’ on the agenda. The game was delicately poised, with a win for either side making all the difference towards the top end of the table. Both teams came with significant support, and the game didn’t disappoint.  
 <hr>
 <h4 align="left" class="tbh4" style="font-style: italic; font-size: 20px">
-Starting XI: Rajan Ranu; Eric Schmidt, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou 
+Starting XI: Rajan Ranu; Eric Schmidt, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou
 </h4>
 <hr>
 
@@ -25,7 +25,7 @@ AFC Roza, in pink, started fast and on the front foot, and got a goal inside 10 
 </div>
 <br>
 
-AFC Rose’s game plan was clear: they continued to send the ball long for their striker to battle, and battle he did. They equalised with a goal which I think everyone on the pitch, bar the referee, knew was offside! This didn’t deter AFC Roza though, who continued to dominate. The pressure paid off soon enough, with Roza’s number 10 Danny Smith winning the ball high up the pitch, before some great interplay with Iddo Razin resulted in a dangerous strike from the latter that the keeper could only parry into Smith’s feet. 2-1 Roza. The game tightened from here on out, with neither team wanting to concede the crucial next goal before HT. 
+AFC Rose’s game plan was clear: they continued to send the ball long for their striker to battle, and battle he did. They equalised with a goal which I think everyone on the pitch, bar the referee, knew was offside! This didn’t deter AFC Roza though, who continued to dominate. The pressure paid off soon enough, with Roza’s number 10 Danny Smith winning the ball high up the pitch, before some great interplay with Iddo Razin resulted in a dangerous strike from the latter that the keeper could only parry into Smith’s feet. 2-1 Roza. The game tightened from here on out, with neither team wanting to concede the crucial next goal before HT.
 
 The target for AFC Roza in the second half was the same as the first, start fast and make life difficult for the opposition, and we did that. The Gaffer, Mike Anastasiou, made it clear at half time that focus was key, and we needed to continue to be aggressive from the off. “We’ve been good, but we can be better” was the rallying cry to the boys in pink, and it seemed to work.
 
@@ -34,9 +34,9 @@ The target for AFC Roza in the second half was the same as the first, start fast
 </div>
 <br>
 
-Again, Roza took charge of the first 15 minutes of the second half. A few good chances were missed but the significant pressure on the opposition was notably having an effect. Iddo Razin, Danny Smith and Saj Rajaratnam made it impossible for the opposition to play out with the high press, allowing Roza to keep the ball in the opposition half and sustain pressure. A sub after half time due to an injury to Georgiades meant the ever-dependable Rees Colgan came into the fray, and the way he settled the ball and minds of his Roza teammates was clear to see. 
+Again, Roza took charge of the first 15 minutes of the second half. A few good chances were missed but the significant pressure on the opposition was notably having an effect. Iddo Razin, Danny Smith and Saj Rajaratnam made it impossible for the opposition to play out with the high press, allowing Roza to keep the ball in the opposition half and sustain pressure. A sub after half time due to an injury to Georgiades meant the ever-dependable Rees Colgan came into the fray, and the way he settled the ball and minds of his Roza teammates was clear to see.
 
-The away side did not let their heads drop and continued to battle, again with the long ball their main outlet, but the Roza backline held strong, with monster performances from the centre back partnership of Chris Johnson and Giorgio Koullas, and a special mention to Eric Schmidt who also impressed on his return to the side. Not to mention Roza’s #1, Rajan Ranu, who always seems to know exactly what the game requires in each changing moment. 
+The away side did not let their heads drop and continued to battle, again with the long ball their main outlet, but the Roza backline held strong, with monster performances from the centre back partnership of Chris Johnson and Giorgio Koullas, and a special mention to Eric Schmidt who also impressed on his return to the side. Not to mention Roza’s #1, Rajan Ranu, who always seems to know exactly what the game requires in each changing moment.
 
 2 more subs were then made for AFC Roza with Andrew Michael and Nicholas Christou entering the field for the last 10 minutes – and both players executed their roles perfectly. With time running out, and tired legs starting to show for the opposition, Roza finally made the pressure pay. After a disallowed Rajaratnam goal from the previous corner, Chris Johnson was first to a loose ball in the box, scoring his second of the season, and finally putting the game to bed. AFC Roza managed the game well from there and in the end secured a victory which appeared comfortable, but credit to the team for being professional and focused throughout.  
 
