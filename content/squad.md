@@ -9,6 +9,11 @@ math: true
 <h1 style="font-size: 50px; font-weight: bold">Squad </h1>
 
 <hr>
+<h2 style="font-size: 35px; color: grey;  text-shadow: 2px 1px 1px #ff85ae;"> HEAD COACH </h2>
+<h4 style="font-size: 23px" align="left">
+Mike Anastasiou &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png" width ="5%" alt = "Cyprus flag" />
+<hr>
+
 <h2 style="font-size: 35px; color: grey;  text-shadow: 2px 1px 1px #ff85ae;"> GOALKEEPERS </h2>
 <h2 style="font-size: 2px"> <br> </h2>
 <h4 style="font-size: 23px" align="left">
