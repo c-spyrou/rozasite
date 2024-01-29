@@ -1,7 +1,7 @@
 ---
 title: "Match Report - AFC Rose (H)"
 layout: singlepage
-Description: "AFC Rose at home in the league"
+Description: "Read more about our 3-1 victory in the Rose Derby..."
 draft: false
 url: "/afcrose_h_2324/"
 ---
