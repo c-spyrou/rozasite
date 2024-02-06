@@ -11,44 +11,51 @@ url: "/conti_h_2324/"
 
 <br/>
 
-A sunny Sunday morning in North London was the setting, with a ‘Rose Derby’ on the agenda. The game was delicately poised, with a win for either side making all the difference towards the top end of the table. Both teams came with significant support, and the game didn’t disappoint.  
+It was a gloomy, windy home fixture for The Rose - the visitors today, Continental. Roza began today’s fixture at 3rd in the league and with the opportunity to leapfrog AFC Oakwood, we were eager to make a statement to the rest of the league.
 <hr>
 <h4 align="left" class="tbh4" style="font-style: italic; font-size: 20px">
-Starting XI: Rajan Ranu; Eric Schmidt, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou
+Starting XI: Rajan Ranu; Rees Colgan, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou
 </h4>
 <hr>
 
-AFC Roza, in pink, started fast and on the front foot, and got a goal inside 10 minutes. Alex Andreou, who has been superb on his return to the side after a 3 month absence, got the ball to feet, beat his man and cut the ball back to Roza’s ever reliable number 9, Steph Savva, who finished clinically to put the home side one to the good. Roza didn’t stop there though, with Andreou and Savva constantly linking up in and around the box, whilst Iddo Razin on the right hand side continued to whip in dangerous balls for the forwards to attack. Roza hit the post twice in the next 5 minutes through both Andreou and Savva, but unfortunately couldn’t add another. Meanwhile, Michael Georgiades was crucial to everything good Roza did, battling extremely well in the middle of the park and constantly linking the backline with the Roza forwards.
+A strong first 10 minutes was characterised by dynamic and slick Rozaball. A theme of this period was the Koumi-Andreou link up on the left flank. As we approached the 10-minute mark, Andreou’s quick feet and lightning pace proved too much for the Continental right back, as he drove to the byline and pulled back for his partner in crime, Savva, who, received the ball on the edge of the box, cut in past Conti’s centre back, and fired into the goalkeeper's left top corner. 1-0 Roza.
 
 <div style="text-align: center;">
-<img src="../Images/rose1.jpeg" width="60%" alt="Rose away" />
+<img src="../Images/conti2_tt.jpeg" width="60%" alt="Conti (h)" />
 </div>
 <br>
 
-AFC Rose’s game plan was clear: they continued to send the ball long for their striker to battle, and battle he did. They equalised with a goal which I think everyone on the pitch, bar the referee, knew was offside! This didn’t deter AFC Roza though, who continued to dominate. The pressure paid off soon enough, with Roza’s number 10 Danny Smith winning the ball high up the pitch, before some great interplay with Iddo Razin resulted in a dangerous strike from the latter that the keeper could only parry into Smith’s feet. 2-1 Roza. The game tightened from here on out, with neither team wanting to concede the crucial next goal before HT.
+As we approached 20 minutes, Continental’s game plan became more clear - what can only be described as route 1 football was in full effect. Employing a 442 formation that Sean Dyche himself would’ve been proud of, the direct goal kicks were giving Johnson and Koullas plenty to think about. In the main, our two centre halves were dealing with these long balls well, but Conti were wasteful with the few chances they did get.
 
-The target for AFC Roza in the second half was the same as the first, start fast and make life difficult for the opposition, and we did that. The Gaffer, Mike Anastasiou, made it clear at half time that focus was key, and we needed to continue to be aggressive from the off. “We’ve been good, but we can be better” was the rallying cry to the boys in pink, and it seemed to work.
+As we approached the midway point of the first half, the Continental players would’ve been wishing they continued their direct playing style, as a rare abandonment of this strategy found their centre backs trying to play out on the edge of their box. The Roza front 3 were under strict instruction by Mike Anastasiou to press high, and press high they did, with Andreou stealing the ball from their centre back. As he ran towards goal, the Continental centre back, in a desperate attempt to make up his error, clipped his heels - Penalty Roza! The ever composed Razin stepped up with a quality finish from 12 yards, sending the keeper the wrong way. 2-0 Roza.
 
 <div style="text-align: center;">
-<img src="../Images/rose2.jpeg" width="60%" alt="Rose away" />
+<img src="../Images/conti1.jpeg" width="60%" alt="Rose away" />
 </div>
 <br>
 
-Again, Roza took charge of the first 15 minutes of the second half. A few good chances were missed but the significant pressure on the opposition was notably having an effect. Iddo Razin, Danny Smith and Saj Rajaratnam made it impossible for the opposition to play out with the high press, allowing Roza to keep the ball in the opposition half and sustain pressure. A sub after half time due to an injury to Georgiades meant the ever-dependable Rees Colgan came into the fray, and the way he settled the ball and minds of his Roza teammates was clear to see.
+The midfield battle was only being won by one team, and the midfield general Georgiades found himself on top when dualing with the Continental midfield. This, coupled with Saj Rajaratnam and Danny Smith’s quality, control and work rate proved too much for Conti to handle and, on several occasions, culminated in Razin receiving the ball out wide from the pair in acres of space. Some horrendous officiating led to numerous poor offside decisions against Razin, who was looking to add to his tally in search of a consecutive Roza golden boot. With half an hour played, the luck was eventually on Razin’s side, as he flicked on a loose ball over the Conti centre backs' heads, into the path of Roza talisman Savva on the edge of the box, who rifled home on the volley leaving the keeper helpless. 3-0 Roza.
 
-The away side did not let their heads drop and continued to battle, again with the long ball their main outlet, but the Roza backline held strong, with monster performances from the centre back partnership of Chris Johnson and Giorgio Koullas, and a special mention to Eric Schmidt who also impressed on his return to the side. Not to mention Roza’s #1, Rajan Ranu, who always seems to know exactly what the game requires in each changing moment.
-
-2 more subs were then made for AFC Roza with Andrew Michael and Nicholas Christou entering the field for the last 10 minutes – and both players executed their roles perfectly. With time running out, and tired legs starting to show for the opposition, Roza finally made the pressure pay. After a disallowed Rajaratnam goal from the previous corner, Chris Johnson was first to a loose ball in the box, scoring his second of the season, and finally putting the game to bed. AFC Roza managed the game well from there and in the end secured a victory which appeared comfortable, but credit to the team for being professional and focused throughout.  
-
-It was a huge performance across the pitch for AFC Roza, with countless names doing themselves proud. Most notably, Chris Johnson, today’s Man of the Match, for the way he martialled the defence before securing the crucial goal to seal the game.
+The last 10 minutes of the first half was characterised by a catalogue of refereeing errors, the first of which being when the Conti number 10 picked the ball up on the edge of the Roza box dribbled through a few defenders, and eventually fell to the ground with faintest of Roza touches, this one coming from Georgiades. The referee pointed to the spot without hesitation, much to the discontent of the players and the faithful watching along from the sidelines. The Conti number 9 stepped up, sent Ranu the wrong way and brought one back to make it 3-1. Then, on the stroke of half time, a long ball from Conti found its way to the edge of our box, bouncing high and proving to be a problem for even the ever reliable Koullas and Johnson. Johnson, with Conti’s striker on his tail attempted to shield the ball back to Ranu, but the striker managed to wiggle in between the two, only to then be fouled by Ranu, in a series of unfortunate events. The referee of course paid no attention to the tugging on Johnson’s shirt prior, and pointed to the spot once again for a third penalty of the game. The penalty once again sent Ranu the wrong way - 2 penalties, 2 goals, the Roza just one in front. Conti came close to getting an equaliser right before the half-time whistle, when their captain nearly added a hat-trick with a free-kick which struck the Roza crossbar.
 
 <div style="text-align: center;">
-<img src="../Images/rosemotm.jpeg" width="60%" alt="Rose away" />
+<img src="../Images/conti3.jpeg" width="60%" alt="Rose away" />
 </div>
 <br>
 
-The Roza march on after another win in 2024, and are now looking upwards with a lot still left to play for.
+The Conti penalty on the stroke of half time significantly changed the half time talk from Roza manager Anastasiou, and amidst the clear frustration in the Roza players' faces coming in at just 3-2, Mike reminded the players of the things that allowed them to take a 3 goal lead and to remain calm.
+
+As the second half commenced, The Rose looked sluggish, and Conti were clearly the ones with the bit between their teeth, looking to grab the game by the scruff of the neck. Roza uncharacteristically didn’t seem to be able to hold onto the ball for long and despite an outside the box thunderbolt from Saj and a typical Andreou run into the box that finished in a low driven shot, the Roza couldn’t add to their tally as a result of some great goalkeeping. There were also a number of other chances that could've restored a 2 goal lead including Danny Smith's lobbed effort which didn't quite get enough lift, and Rajaratnam's one-on-one which was smothered by the Conti goalkeeper. It stayed at 3-2 however, and it was therefore not the calm ending to the game that Roza would have hoped for.
+
+Iddo Razin was Sunday's Man of the Match, scoring from the spot and getting an assist alongside continuous hard-work at both ends of the pitch.
+
+<div style="text-align: center;">
+<img src="../Images/contihmotm.jpg" width="60%" alt="Rose away" />
+</div>
+<br>
+
+In a game that was characterised by Roza grit, poor officiating and contrasting styles of play, The Rose managed to get 3 points and rise to second in the league.
 
 <h3 style= "font-size: 25px">
-UP THE ROZA!<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
+#UTR<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
 </h3>
