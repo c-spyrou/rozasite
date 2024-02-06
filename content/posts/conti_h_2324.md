@@ -30,7 +30,7 @@ As we approached 20 minutes, Continental’s game plan became more clear - what 
 As we approached the midway point of the first half, the Continental players would’ve been wishing they continued their direct playing style, as a rare abandonment of this strategy found their centre backs trying to play out on the edge of their box. The Roza front 3 were under strict instruction by Mike Anastasiou to press high, and press high they did, with Andreou stealing the ball from their centre back. As he ran towards goal, the Continental centre back, in a desperate attempt to make up his error, clipped his heels - Penalty Roza! The ever composed Razin stepped up with a quality finish from 12 yards, sending the keeper the wrong way. 2-0 Roza.
 
 <div style="text-align: center;">
-<img src="../Images/conti1.jpeg" width="60%" alt="Rose away" />
+<img src="../Images/conti1.jpeg" width="60%" alt="Team" />
 </div>
 <br>
 
@@ -39,7 +39,7 @@ The midfield battle was only being won by one team, and the midfield general Geo
 The last 10 minutes of the first half was characterised by a catalogue of refereeing errors, the first of which being when the Conti number 10 picked the ball up on the edge of the Roza box dribbled through a few defenders, and eventually fell to the ground with faintest of Roza touches, this one coming from Georgiades. The referee pointed to the spot without hesitation, much to the discontent of the players and the faithful watching along from the sidelines. The Conti number 9 stepped up, sent Ranu the wrong way and brought one back to make it 3-1. Then, on the stroke of half time, a long ball from Conti found its way to the edge of our box, bouncing high and proving to be a problem for even the ever reliable Koullas and Johnson. Johnson, with Conti’s striker on his tail attempted to shield the ball back to Ranu, but the striker managed to wiggle in between the two, only to then be fouled by Ranu, in a series of unfortunate events. The referee of course paid no attention to the tugging on Johnson’s shirt prior, and pointed to the spot once again for a third penalty of the game. The penalty once again sent Ranu the wrong way - 2 penalties, 2 goals, the Roza just one in front. Conti came close to getting an equaliser right before the half-time whistle, when their captain nearly added a hat-trick with a free-kick which struck the Roza crossbar.
 
 <div style="text-align: center;">
-<img src="../Images/conti3.jpeg" width="60%" alt="Rose away" />
+<img src="../Images/conti3.jpeg" width="60%" alt="Conti action" />
 </div>
 <br>
 
@@ -50,7 +50,7 @@ As the second half commenced, The Rose looked sluggish, and Conti were clearly t
 Iddo Razin was Sunday's Man of the Match, scoring from the spot and getting an assist alongside continuous hard-work at both ends of the pitch.
 
 <div style="text-align: center;">
-<img src="../Images/contihmotm.jpg" width="60%" alt="Rose away" />
+<img src="../Images/contihmotm.jpg" width="60%" alt="Conti MOTM" />
 </div>
 <br>
 
