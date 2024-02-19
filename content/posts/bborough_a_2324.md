@@ -33,7 +33,7 @@ Shortly after though, the one goal lead was restored when Cal Cook once again di
 
 With Roza 2-1 up and looking solid, it was a surprise when Barnet Borough once again equalised around half an hour into the game. A defensive lapse meant that they broke through and scored another, continuing their clinical display.
 
-It looked as if it would be 2-2 going into the break; but Roza talisman Danny Smith had other ideas. Our number 10 picked the ball up in the middle of the park, around 20 yards out, opening his body to curl one into the top right-hand corner. It was a moment of finesse and quality from Smith, who had an excellent game all-round, patrolling the centre of the midfield. His strike meant that 3-2 was the half-time scoreline, in an exciting and ultimately positive first half. 
+It looked as if it would be 2-2 going into the break; but Roza talisman Danny Smith had other ideas. Our number 10 picked the ball up in the middle of the park, around 20 yards out, opening his body to curl one into the top right-hand corner. It was a moment of finesse and quality from Smith, who had an excellent game all-round, patrolling the centre of the midfield. His strike meant that 3-2 was the half-time scoreline, in an exciting and ultimately positive first half.
 
 With the scoreline reading 3-2, it could've been more if we were clinical. There were a number of half-chances, but at least we led at the break.
 
