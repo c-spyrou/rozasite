@@ -41,6 +41,6 @@ There were around 20 minutes when the goal went in, and as expected, Roza pushed
 
 <h3 style= "font-size: 25px">
 The boys left everything on the pitch and it was a tough one to take, but we have to recover quickly and finish the season as well as possible. <br> <br>
-Up The Rose. 
+Up The Rose.
  <img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
 </h3>
