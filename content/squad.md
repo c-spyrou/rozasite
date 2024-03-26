@@ -6,7 +6,7 @@ math: true
 ---
 <body style="background-color: lightsteelblue;">
 <br>
-<h1 style="font-size: 50px; font-weight: bold">Squad </h1>
+<h1 style="font-size: 50px; font-weight: bold">Squad</h1>
 
 <hr>
 <h2 style="font-size: 35px; color: grey;  text-shadow: 2px 1px 1px #ff85ae;"> HEAD COACH </h2>
