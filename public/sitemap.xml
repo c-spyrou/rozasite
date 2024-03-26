@@ -2,44 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.afcroza.com/2324-sofar/</loc>
+    <loc>http://localhost:1313/2324-sofar/</loc>
     <lastmod>2023-12-12T12:32:51+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.afcroza.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2023-12-07T11:43:57+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/fixtures/</loc>
-    <lastmod>2024-01-08T06:16:00+00:00</lastmod>
+    <loc>http://localhost:1313/fixtures/</loc>
+    <lastmod>2024-03-18T17:14:51+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-11-30T11:00:15+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/table/</loc>
-    <lastmod>2024-01-08T06:16:00+00:00</lastmod>
+    <loc>http://localhost:1313/table/</loc>
+    <lastmod>2024-03-19T17:14:04+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/mbpotm-nov23/</loc>
+    <loc>http://localhost:1313/afcrose_h_2324/</loc>
+    <lastmod>2024-01-29T13:03:16+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/barnetborough_a_2324/</loc>
+    <lastmod>2024-02-19T17:28:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/conti_a_2324/</loc>
+    <lastmod>2024-03-11T10:53:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/conti_h_2324/</loc>
+    <lastmod>2024-02-06T10:24:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fireside_a_2324/</loc>
+    <lastmod>2024-03-04T15:47:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/trent_h_2324/</loc>
+    <lastmod>2024-01-29T12:59:48+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mbpotm-feb24/</loc>
+    <lastmod>2024-03-13T14:56:18+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mbpotm-jan24/</loc>
+    <lastmod>2024-02-05T11:55:22+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mbpotm-nov23/</loc>
     <lastmod>2023-12-12T12:22:49+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/news/</loc>
-    <lastmod>2023-12-12T10:50:34+00:00</lastmod>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-03-13T14:54:30+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/journey/</loc>
-    <lastmod>2023-11-30T11:00:15+00:00</lastmod>
+    <loc>http://localhost:1313/journey/</loc>
+    <lastmod>2024-01-17T15:54:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/posts/</loc>
-    <lastmod>2023-12-12T12:32:51+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-13T14:56:18+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/shop/</loc>
-    <lastmod>2024-01-04T10:05:25+00:00</lastmod>
+    <loc>http://localhost:1313/shop/</loc>
+    <lastmod>2024-01-17T11:29:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/sponsors/</loc>
-    <lastmod>2023-12-07T16:10:55+00:00</lastmod>
+    <loc>http://localhost:1313/sponsors/</loc>
+    <lastmod>2024-01-09T12:34:47+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/squad/</loc>
-    <lastmod>2024-01-04T10:28:08+00:00</lastmod>
+    <loc>http://localhost:1313/squad/</loc>
+    <lastmod>2024-01-19T11:13:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.afcroza.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

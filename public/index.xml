@@ -2,105 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on AFC Roza</title>
-    <link>https://www.afcroza.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on AFC Roza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.afcroza.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023/24 - Our Season So Far</title>
-      <link>https://www.afcroza.com/2324-sofar/</link>
+      <link>http://localhost:1313/2324-sofar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/2324-sofar/</guid>
-      <description>2023/24 - Our Season So Far After finishing second in our first ever season in Division 6 of the Barnet Sunday Football League, we were handed a sizeable promotion up to Division 1. This entailed a climb from the 8th tier to the 3rd tier of the BSFL pyramid, meaning that we had a big challenge on our hands. Here&amp;rsquo;s how we&amp;rsquo;ve got on so far&amp;hellip;
-September After much anticipation, September was upon us and our first fixture was an away one against AFC Rose.</description>
+      <guid>http://localhost:1313/2324-sofar/</guid>
+      <description>2023/24 - Our Season So Far After finishing second in our first ever season in Division 6 of the Barnet Sunday Football League, we were handed a sizeable promotion up to Division 1. This entailed a climb from the 8th tier to the 3rd tier of the BSFL pyramid, meaning that we had a big challenge on our hands. Here&amp;rsquo;s how we&amp;rsquo;ve got on so far&amp;hellip;&#xA;September After much anticipation, September was upon us and our first fixture was an away one against AFC Rose.</description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://www.afcroza.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/contact/</guid>
-      <description>Contact Us We are open to a discussion and will get back to you about any enquiries, whether they are regarding matters on or off the pitch. If you wish to contact us, use one of the following avenues: Email Address: afcroza@outlook.com Instagram: @afcroza Contact number: +447825894886</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&#xD;Contact Us We are open to a discussion and will get back to you about any enquiries, whether they are regarding matters on or off the pitch. If you wish to contact us, use one of the following avenues: Email Address: afcroza@outlook.com Instagram: @afcroza Contact number: +447825894886&#xD;</description>
     </item>
-    
     <item>
       <title>Fixtures &amp; Results</title>
-      <link>https://www.afcroza.com/fixtures/</link>
+      <link>http://localhost:1313/fixtures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/fixtures/</guid>
-      <description>Fixtures &amp; Results Upcoming Matches... CompetitionDate &amp;amp; TimeHomevsAwayVenueDIV114/01/24 11:30AFC RozaVSFC Trent ParkPOWERLEAGUE (ENFIELD)This Season&#39;s Results... CompetitionDate &amp;amp; TimeHomeResultAwayStatusBIC07/01/24 11:30AFC Roza1 - 5 (HT 0-5)Real MenzaDIV117/12/23 10:30Inter Manresa 243 - 2AFC RozaDIV110/12/23 11:30AFC RozaP - PContinentalPostponedDIV103/12/23 13:30AFC Roza1 - 5Highgate Albion 2ndDIV119/11/23 11:30AFC Roza3 - 1South Tottenham UnitedDIV112/11/23 13:30AFC Roza3 - 6Inter Manresa 24DIV105/11/23 13:30AFC Roza4 - 0PS Birlik SporDIV129/10/23 10:30South Tottenham United2 - 5AFC RozaDIV122/10/23 10:30Fireside FCP - PAFC RozaPostponedDIV115/10/23 11:30AFC Roza2 - 3AFC OakwoodDIV108/10/23 10:15FC Trent Park3 - 1AFC RozaDIV101/10/23 13:00PS Birlik Spor1 - 4AFC RozaDIV124/09/23 11:30AFC Roza2 - 5Fireside FCRJCC10/09/23 11:30AFC Roza2 - 5Inter Manresa 24DIV103/09/23 10:30AFC Rose2 - 7 (HT 1-5)AFC Roza</description>
+      <guid>http://localhost:1313/fixtures/</guid>
+      <description>&#xD;Fixtures &amp; Results Upcoming Matches... Competition&#xD;Date &amp;amp; Time&#xD;Home&#xD;vs&#xD;Away&#xD;Venue&#xD;DIV1&#xD;24/03/24 11:30&#xD;Highgate Albion 2nd&#xD;VS&#xD;AFC Roza&#xD;ST ALOYSIUS PLAYING FIELDS (Pitch One)&#xD;This Season&#39;s Results... Competition&#xD;Date &amp;amp; Time&#xD;Home&#xD;Result&#xD;Away&#xD;Status&#xD;DIV1&#xD;10/03/24 10:30&#xD;Continental&#xD;1 - 7&#xD;AFC Roza&#xD;DIV1&#xD;03/03/24 10:30&#xD;Fireside FC&#xD;2 - 1&#xD;AFC Roza&#xD;INVI&#xD;18/02/24 13:30&#xD;Barnet Borough FC&#xD;4 - 3 (HT 2-0)&#xD;AFC Roza&#xD;DIV1&#xD;04/02/24 11:30&#xD;AFC Roza&#xD;3 - 2&#xD;Continental&#xD;DIV1&#xD;28/01/24 11:30&#xD;AFC Roza&#xD;3 - 1&#xD;AFC Rose&#xD;DIV1&#xD;14/01/24 11:30&#xD;AFC Roza&#xD;2 - 1&#xD;FC Trent Park&#xD;BIC&#xD;07/01/24 11:30&#xD;AFC Roza&#xD;1 - 5 (HT 0-5)&#xD;Real Menza&#xD;DIV1&#xD;17/12/23 10:30&#xD;Inter Manresa 24&#xD;3 - 2&#xD;AFC Roza&#xD;DIV1&#xD;03/12/23 13:30&#xD;AFC Roza&#xD;1 - 5&#xD;Highgate Albion 2nd&#xD;DIV1&#xD;19/11/23 11:30&#xD;AFC Roza&#xD;3 - 1&#xD;South Tottenham United&#xD;DIV1&#xD;12/11/23 13:30&#xD;AFC Roza&#xD;3 - 6&#xD;Inter Manresa 24&#xD;DIV1&#xD;05/11/23 13:30&#xD;AFC Roza&#xD;4 - 0&#xD;PS Birlik Spor&#xD;DIV1&#xD;29/10/23 10:30&#xD;South Tottenham United&#xD;2 - 5&#xD;AFC Roza&#xD;DIV1&#xD;15/10/23 11:30&#xD;AFC Roza&#xD;2 - 3&#xD;AFC Oakwood&#xD;DIV1&#xD;08/10/23 10:15&#xD;FC Trent Park&#xD;3 - 1&#xD;AFC Roza&#xD;DIV1&#xD;01/10/23 13:00&#xD;PS Birlik Spor&#xD;1 - 4&#xD;AFC Roza&#xD;DIV1&#xD;24/09/23 11:30&#xD;AFC Roza&#xD;2 - 5&#xD;Fireside FC&#xD;RJCC&#xD;10/09/23 11:30&#xD;AFC Roza&#xD;2 - 5&#xD;Inter Manresa 24&#xD;DIV1&#xD;03/09/23 10:30&#xD;AFC Rose&#xD;2 - 7 (HT 1-5)&#xD;AFC Roza&#xD;</description>
     </item>
-    
     <item>
       <title>League Table</title>
-      <link>https://www.afcroza.com/table/</link>
+      <link>http://localhost:1313/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/table/</guid>
-      <description>League Table PosTeamPWDLFAGDPTS1Inter Manresa 248710381424222FC Trent Park9612332112193AFC Oakwood10541312110194AFC Roza1150634313155AFC Rose114252231-9146South Tottenham United143382844-16127Highgate Albion 2nd732220137118Fireside FC824221183109Continental102262644-18810PS Birlik Spor102171026-167</description>
+      <guid>http://localhost:1313/table/</guid>
+      <description>&#xD;League Table Pos&#xD;Team&#xD;P&#xD;W&#xD;D&#xD;L&#xD;F&#xD;A&#xD;GD&#xD;PTS&#xD;1&#xD;Inter Manresa 24&#xD;13&#xD;12&#xD;1&#xD;0&#xD;61&#xD;19&#xD;42&#xD;37&#xD;2&#xD;AFC Roza&#xD;16&#xD;9&#xD;0&#xD;7&#xD;50&#xD;38&#xD;12&#xD;27&#xD;3&#xD;AFC Oakwood&#xD;13&#xD;7&#xD;4&#xD;2&#xD;39&#xD;25&#xD;14&#xD;25&#xD;4&#xD;FC Trent Park&#xD;11&#xD;7&#xD;1&#xD;3&#xD;38&#xD;25&#xD;13&#xD;22&#xD;5&#xD;Fireside FC&#xD;14&#xD;5&#xD;5&#xD;4&#xD;35&#xD;29&#xD;6&#xD;20&#xD;6&#xD;AFC Rose&#xD;16&#xD;4&#xD;5&#xD;7&#xD;31&#xD;45&#xD;-14&#xD;17&#xD;7&#xD;Highgate Albion 2nd&#xD;9&#xD;4&#xD;3&#xD;2&#xD;28&#xD;18&#xD;10&#xD;15&#xD;8&#xD;South Tottenham United&#xD;17&#xD;3&#xD;3&#xD;11&#xD;31&#xD;58&#xD;-27&#xD;12&#xD;9&#xD;PS Birlik Spor&#xD;15&#xD;3&#xD;1&#xD;11&#xD;23&#xD;51&#xD;-28&#xD;10&#xD;10&#xD;Continental&#xD;14&#xD;2&#xD;3&#xD;9&#xD;31&#xD;59&#xD;-28&#xD;9&#xD;</description>
     </item>
-    
+    <item>
+      <title>Match Report - AFC Rose (H)</title>
+      <link>http://localhost:1313/afcrose_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/afcrose_h_2324/</guid>
+      <description>Match Report - AFC Rose (H) A sunny Sunday morning in North London was the setting, with a ‘Rose Derby’ on the agenda. The game was delicately poised, with a win for either side making all the difference towards the top end of the table. Both teams came with significant support, and the game didn’t disappoint.&#xA;Starting XI: Rajan Ranu; Eric Schmidt, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou&#xD;AFC Roza, in pink, started fast and on the front foot, and got a goal inside 10 minutes.</description>
+    </item>
+    <item>
+      <title>Match Report - Barnet Borough (A)</title>
+      <link>http://localhost:1313/barnetborough_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/barnetborough_a_2324/</guid>
+      <description>Match Report - Barnet Borough (A) AFC Roza were back in action on Sunday, hoping that last week&amp;rsquo;s cancellation would not disrupt the strong run of form that we had been in over recent weeks. Although this was an away fixture, Barnet Borough are one of the teams who share the same home pitch as Roza - so it was familiar territory in the form of Enfield Powerleague.&#xA;There were a number of high profile absentees in the Roza squad including Chris Johnson, Iddo Razin and Eric Schmidt, but the boys were at least boosted by Ben Reynolds&amp;rsquo; return to the bench.</description>
+    </item>
+    <item>
+      <title>Match Report - Continental (A)</title>
+      <link>http://localhost:1313/conti_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conti_a_2324/</guid>
+      <description>Match Report - Continental (A) After two unfortunate results, where Roza harshly lost by one goal on consecutive occasions, Sunday was a test of mental strength as well as footballing quality for the boys - as we faced FC Continental. It was to be played on a muddy, wet Enfield Playing Fields; and with three games left of the season going into this one, the points on offer were extremely valuable ones.</description>
+    </item>
+    <item>
+      <title>Match Report - Continental (H)</title>
+      <link>http://localhost:1313/conti_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conti_h_2324/</guid>
+      <description>Match Report - Continental (H) It was a gloomy, windy home fixture for The Rose - the visitors today, Continental. Roza began today’s fixture at 3rd in the league and with the opportunity to leapfrog AFC Oakwood, we were eager to make a statement to the rest of the league.&#xA;Starting XI: Rajan Ranu; Rees Colgan, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou&#xD;A strong first 10 minutes was characterised by dynamic and slick Rozaball.</description>
+    </item>
+    <item>
+      <title>Match Report - Fireside (A)</title>
+      <link>http://localhost:1313/fireside_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fireside_a_2324/</guid>
+      <description>Match Report - Fireside (A) As games up and down the country were postponed due to torrential rain, we were pleasantly surprised by the news that our away game against Fireside would go ahead on Sunday. With a few absentees, including both goalkeepers, we knew we had a tough test; but we were keen to find 3 points against a team who beat us earlier in the season.&#xA;Roza set up with a midfield diamond, a throwback to the 22/23 season where this system paid dividends in their journey to second place in the table.</description>
+    </item>
+    <item>
+      <title>Match Report - Trent Park (H)</title>
+      <link>http://localhost:1313/trent_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trent_h_2324/</guid>
+      <description>Match Report - Trent Park (H) It was a freezing Sunday morning, but the Roza boys certainly heated up our Enfield Powerleague home pitch with an excellent performance against Trent Park. With Trent Park being an established side and going into the fixture in second place, it was a tough test for Roza who had lost three in a row going either side of Christmas; but it was a test that the boys passed with flying colours.</description>
+    </item>
+    <item>
+      <title>Miyagi Bonsai Player of the Month: February &#39;24</title>
+      <link>http://localhost:1313/mbpotm-feb24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mbpotm-feb24/</guid>
+      <description>Player of the Month: February 2024 And the Miyagi Bonsai Player of the Month for February 2024 is&amp;hellip;&#xA;Michael Georgiades! As one of the founding fathers, Michael G has always had a big part to play within the club off the pitch - but his influence on it has come leaps and bounds in recent months. He has established himself as a mainstay at the heart of the Roza engine room, and his combative nature combined with his composure has helped Roza throughout the season.</description>
+    </item>
+    <item>
+      <title>Miyagi Bonsai Player of the Month: January &#39;24</title>
+      <link>http://localhost:1313/mbpotm-jan24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mbpotm-jan24/</guid>
+      <description>Player of the Month: January 2024 And 2024&amp;rsquo;s first Miyagi Bonsai Player of the Month is&amp;hellip;&#xA;Giorgio Koullas! Giorgio has been an absolute rock at the heart of the Roza defence this month, commanding the back line with strong leadership and astute defending throughout. The team&amp;rsquo;s defensive cohesion has looked increasingly settled as the month has gone on, and Koullas&amp;rsquo; emerging centre-back partnership with Chris Johnson is certainly one of the main reasons for this.</description>
+    </item>
     <item>
       <title>Miyagi Bonsai Player of the Month: November &#39;23</title>
-      <link>https://www.afcroza.com/mbpotm-nov23/</link>
+      <link>http://localhost:1313/mbpotm-nov23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/mbpotm-nov23/</guid>
-      <description>Player of the Month: November 2023 And your November 2023 Miyagi Bonsai Player of the Month is&amp;hellip;
-Cal Cook! Following in the footsteps of our first ever Player of the Month Steph Savva, our American attacking midfielder Cal Cook took the award for November.
-Cal had an excellent month in November, playing only 2 of our 3 fixtures but scoring 3 goals and assisting once in the process. His brace against PS Birlikspor helped us to a 4-0 win, in a game where he was causing problems for the defence throughout.</description>
+      <guid>http://localhost:1313/mbpotm-nov23/</guid>
+      <description>Player of the Month: November 2023 And your November 2023 Miyagi Bonsai Player of the Month is&amp;hellip;&#xA;Cal Cook! Following in the footsteps of our first ever Player of the Month Steph Savva, our American attacking midfielder Cal Cook took the award for November.&#xA;Cal had an excellent month in November, playing only 2 of our 3 fixtures but scoring 3 goals and assisting once in the process. His brace against PS Birlikspor helped us to a 4-0 win, in a game where he was causing problems for the defence throughout.</description>
     </item>
-    
     <item>
       <title>News</title>
-      <link>https://www.afcroza.com/news/</link>
+      <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/news/</guid>
-      <description>Latest News Our Season so FarRead about the first half of our 2023/24 season...
-Miyagi Bonsai Player of the Month: November &#39;23Read about our Player of the Month for November 2023: Cal Cook!</description>
+      <guid>http://localhost:1313/news/</guid>
+      <description>Latest News Miyagi Bonsai Player of the Month: February &#39;24&#xD;Read about our Player of the Month for February 2024: Michael Georgiades!&#xA;Match Report: Continental (a)&#xD;The story of our emphatic win against Continental...&#xA;Match Report: Fireside (a)&#xD;Last Sunday&#39;s 2-1 loss to Fireside.&#xA;Match Report: Barnet Borough (a)&#xD;Read the story of our 4-3 loss to Barnet Borough...&#xA;Miyagi Bonsai Player of the Month: January &#39;24&#xD;Read about our Player of the Month for January 2024: Giorgio Koullas!</description>
     </item>
-    
     <item>
       <title>Our Journey</title>
-      <link>https://www.afcroza.com/journey/</link>
+      <link>http://localhost:1313/journey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/journey/</guid>
-      <description>Our Journey On a hot summer’s day in 2020, five friends went for a kickabout in the local park.As they sat down to drink some water, one of the lads jokingly asked the rest, ‘Why don’t we create our own team?’ and from that point on, the work began from transforming this dream into reality. The groundwork started from 2020, including processes to set up the club branding including naming and kits; and conversations were had daily regarding our visions for the club both in the short-term and long-term.</description>
+      <guid>http://localhost:1313/journey/</guid>
+      <description>Our Journey On a hot summer’s day in 2020, five friends went for a kickabout in the local park.&#xD;As they sat down to drink some water, one of the lads jokingly asked the rest, ‘Why don’t we create our own team?’ and from that point on, the work began from transforming this dream into reality. The groundwork started from 2020, including processes to set up the club branding including naming and kits; and conversations were had daily regarding our visions for the club both in the short-term and long-term.</description>
     </item>
-    
     <item>
       <title>Shop</title>
-      <link>https://www.afcroza.com/shop/</link>
+      <link>http://localhost:1313/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/shop/</guid>
-      <description>Shop If you wish to purchase any of the below official merchandise, please email the club at afcroza@outlook.com.Your email should have the following format... Product: Size: Quantity: For example...
-Product: Training Top Size: L Quantity: 2 Training Top - £30 Training Quarter Zip - £34 Tracksuit Bottoms - £26.50 All-Weather Jacket - £45 Winners&#39; Cardigan - £35 Puffa Jacket - £50 Beanie - £8 </description>
+      <guid>http://localhost:1313/shop/</guid>
+      <description>&#xD;Shop If you wish to purchase any of the below official merchandise, please email the club at afcroza@outlook.com.&#xD;Your email should have the following format... Product: Size: Quantity: For example...&#xA;Product: Training Top Size: L Quantity: 2 Product: Training Top Size: M Quantity: 1 Product: Beanie Size: M Quantity: 1 Training Top - £30 Training Quarter Zip - £34 Tracksuit Bottoms - £26.50 All-Weather Jacket - £45 Winners&#39; Cardigan - £35 Puffa Jacket - £50 Beanie - £8 </description>
     </item>
-    
     <item>
       <title>Sponsors</title>
-      <link>https://www.afcroza.com/sponsors/</link>
+      <link>http://localhost:1313/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/sponsors/</guid>
+      <guid>http://localhost:1313/sponsors/</guid>
       <description>Sponsors If you are interested in sponsoring the club and joining the Roza family, please contact us so we can break down our different sponsorship packages. Thank you! This page is dedicated to our wonderful sponsors who make everything possible. Miyagi Bonsai &amp;#8220;Here at Miyagi bonsai we believe we have all of the necessary products to fulfil our customer needs. Stocking a wide variety of indoor and outdoor bonsais, ceramic bonsai pots and trays, bonsai nutrients, bonsai soils, training accessories, pruning tools, bonsai ornaments, supplementary lighting, irrigation and plenty of other horticultural accessories.</description>
     </item>
-    
     <item>
       <title>Squad</title>
-      <link>https://www.afcroza.com/squad/</link>
+      <link>http://localhost:1313/squad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/squad/</guid>
-      <description>Squad GOALKEEPERS Rajan Ranu &amp;nbsp;&amp;nbsp;
-Nicholas Christou &amp;nbsp;&amp;nbsp;DEFENDERS Deano Spyrou &amp;nbsp;&amp;nbsp; Reece Denny &amp;nbsp;&amp;nbsp; &amp;nbsp;Chris Johnson &amp;nbsp;&amp;nbsp; &amp;nbsp;Giorgio Koullas &amp;nbsp;&amp;nbsp; Jake Koumi &amp;nbsp;&amp;nbsp; Andrew Michael &amp;nbsp;&amp;nbsp; Eric Schmidt &amp;nbsp;&amp;nbsp; &amp;nbsp;MIDFIELDERS Rees Colgan &amp;nbsp;&amp;nbsp; Terry Savva &amp;nbsp;&amp;nbsp; Michael Georgiades &amp;nbsp;&amp;nbsp; Saj Rajaratnam &amp;nbsp;&amp;nbsp; Danny Smith &amp;nbsp;&amp;nbsp; &amp;nbsp;Ben Reynolds &amp;nbsp;&amp;nbsp; Cal Cook &amp;nbsp;&amp;nbsp; &amp;nbsp;Luke Alfano &amp;nbsp;&amp;nbsp; &amp;nbsp;ATTACKERS Iddo Razin Alex Andreou Steph Savva Adam Shaw Cam Mutale </description>
+      <guid>http://localhost:1313/squad/</guid>
+      <description>&#xD;Squad HEAD COACH Mike Anastasiou &amp;nbsp;&amp;nbsp;&#xD;GOALKEEPERS Rajan Ranu &amp;nbsp;&amp;nbsp;&#xA;Nicholas Christou &amp;nbsp;&amp;nbsp;&#xD;DEFENDERS Deano Spyrou &amp;nbsp;&amp;nbsp; Reece Denny &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;Chris Johnson &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;Giorgio Koullas &amp;nbsp;&amp;nbsp; Jake Koumi &amp;nbsp;&amp;nbsp; Andrew Michael &amp;nbsp;&amp;nbsp; Eric Schmidt &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;MIDFIELDERS Rees Colgan &amp;nbsp;&amp;nbsp; Terry Savva &amp;nbsp;&amp;nbsp; Michael Georgiades &amp;nbsp;&amp;nbsp; Saj Rajaratnam &amp;nbsp;&amp;nbsp; Danny Smith &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;Ben Reynolds &amp;nbsp;&amp;nbsp; Cal Cook &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;Luke Alfano &amp;nbsp;&amp;nbsp; &amp;nbsp;&#xD;ATTACKERS Iddo Razin Alex Andreou Steph Savva Adam Shaw Cam Mutale </description>
     </item>
-    
   </channel>
 </rss>

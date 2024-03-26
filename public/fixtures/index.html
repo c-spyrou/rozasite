@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Fixtures and Results" />
@@ -103,14 +103,35 @@
       <div class="col-sm-10 offset-sm-1 col-md-9 offset-md-1 col-lg-8 offset-lg-2 col-xl-8 offset-lg-2">
 			
 			
-			<body style="background-color: lightsteelblue;">
+			
+<body style="background-color: lightsteelblue;">
 <br>
-<h1 style="font-size: 50px; font-weight: bold">Fixtures & Results </h1> <br/>
+<h1 style="font-size: 50px; font-weight: bold">Fixtures & Results </h1> 
+<br/>
 
-  <img src="../Images/fixturesheader.JPG" align=central height="126.95" width="846.3" alt="Header image" />
-<br>
-<br>
-<h2 align=center> Upcoming Matches... </h2> <br><table border="1" class="dataframe">
+<style>
+@media (max-width: 768px) {
+  .dataframe {
+    width: 200px}
+
+  .dataframe th.col0,
+  .dataframe td.col0,
+  .dataframe th.col1,
+  .dataframe td.col1,
+  .dataframe th.col2,
+  .dataframe td.col2,
+  .dataframe th.col4,
+  .dataframe td.col4,
+  .dataframe th.col6,
+  .dataframe td.col6 {
+    display: table-cell;
+  }
+
+}
+
+</style>
+<h2 align=center> Upcoming Matches... </h2> <br>
+<!-- scrape from here onwards --><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Competition</th>
@@ -126,18 +147,19 @@
   <tbody>
     <tr>
       <td>DIV1</td>
-      <td>14/01/24 11:30</td>
-      <td>AFC Roza</td>
+      <td>24/03/24 11:30</td>
+      <td>Highgate Albion 2nd</td>
       <td></td>
       <td>VS</td>
       <td></td>
-      <td>FC Trent Park</td>
-      <td>POWERLEAGUE (ENFIELD)</td>
+      <td>AFC Roza</td>
+      <td>ST ALOYSIUS PLAYING FIELDS (Pitch One)</td>
     </tr>
   </tbody>
 </table>
 
-<br/><br/><h2 align=center> This Season's Results... </h2> <br><table border="1" class="dataframe">
+<br/><br/><h2 align=center> This Season's Results... </h2> <br>
+<!-- Scrape results from here onwards --><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Competition</th>
@@ -151,6 +173,66 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>DIV1</td>
+      <td>10/03/24 10:30</td>
+      <td>Continental</td>
+      <td></td>
+      <td>1 - 7</td>
+      <td></td>
+      <td>AFC Roza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DIV1</td>
+      <td>03/03/24 10:30</td>
+      <td>Fireside FC</td>
+      <td></td>
+      <td>2 - 1</td>
+      <td></td>
+      <td>AFC Roza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>INVI</td>
+      <td>18/02/24 13:30</td>
+      <td>Barnet Borough FC</td>
+      <td></td>
+      <td>4 - 3 (HT 2-0)</td>
+      <td></td>
+      <td>AFC Roza</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DIV1</td>
+      <td>04/02/24 11:30</td>
+      <td>AFC Roza</td>
+      <td></td>
+      <td>3 - 2</td>
+      <td></td>
+      <td>Continental</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DIV1</td>
+      <td>28/01/24 11:30</td>
+      <td>AFC Roza</td>
+      <td></td>
+      <td>3 - 1</td>
+      <td></td>
+      <td>AFC Rose</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DIV1</td>
+      <td>14/01/24 11:30</td>
+      <td>AFC Roza</td>
+      <td></td>
+      <td>2 - 1</td>
+      <td></td>
+      <td>FC Trent Park</td>
+      <td></td>
+    </tr>
     <tr>
       <td>BIC</td>
       <td>07/01/24 11:30</td>
@@ -170,16 +252,6 @@
       <td></td>
       <td>AFC Roza</td>
       <td></td>
-    </tr>
-    <tr>
-      <td>DIV1</td>
-      <td>10/12/23 11:30</td>
-      <td>AFC Roza</td>
-      <td></td>
-      <td>P - P</td>
-      <td></td>
-      <td>Continental</td>
-      <td>Postponed</td>
     </tr>
     <tr>
       <td>DIV1</td>
@@ -230,16 +302,6 @@
       <td></td>
       <td>AFC Roza</td>
       <td></td>
-    </tr>
-    <tr>
-      <td>DIV1</td>
-      <td>22/10/23 10:30</td>
-      <td>Fireside FC</td>
-      <td></td>
-      <td>P - P</td>
-      <td></td>
-      <td>AFC Roza</td>
-      <td>Postponed</td>
     </tr>
     <tr>
       <td>DIV1</td>
@@ -303,7 +365,7 @@
     </tr>
   </tbody>
 </table><br> <!-- end -->
-<!-- this is the end --><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!-- this is the end --><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 			
 			

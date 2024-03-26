@@ -66,6 +66,7 @@ p{
   height: auto;  
   display: block;
   max-width: 100%;
+  min-width: 99%;
   scale: 100%;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7fffb+35,dbeeff+75 */
   /* background: rgb(247,255,251); /* Old browsers */
@@ -96,10 +97,24 @@ font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 1rem;
+  min-width: 99%;
+  max-width: 100%;
   line-height: 2.4;
   letter-spacing: 0;
   text-transform: none;
   
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+table {
+  max-width: 100%;
+  width: 100%;
+  object-fit: contain;
+  overflow: scroll;
 }
 
 

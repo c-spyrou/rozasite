@@ -2,30 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AFC Roza</title>
-    <link>https://www.afcroza.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on AFC Roza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.afcroza.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023/24 - Our Season So Far</title>
-      <link>https://www.afcroza.com/2324-sofar/</link>
+      <link>http://localhost:1313/2324-sofar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/2324-sofar/</guid>
-      <description>2023/24 - Our Season So Far After finishing second in our first ever season in Division 6 of the Barnet Sunday Football League, we were handed a sizeable promotion up to Division 1. This entailed a climb from the 8th tier to the 3rd tier of the BSFL pyramid, meaning that we had a big challenge on our hands. Here&amp;rsquo;s how we&amp;rsquo;ve got on so far&amp;hellip;
-September After much anticipation, September was upon us and our first fixture was an away one against AFC Rose.</description>
+      <guid>http://localhost:1313/2324-sofar/</guid>
+      <description>2023/24 - Our Season So Far After finishing second in our first ever season in Division 6 of the Barnet Sunday Football League, we were handed a sizeable promotion up to Division 1. This entailed a climb from the 8th tier to the 3rd tier of the BSFL pyramid, meaning that we had a big challenge on our hands. Here&amp;rsquo;s how we&amp;rsquo;ve got on so far&amp;hellip;&#xA;September After much anticipation, September was upon us and our first fixture was an away one against AFC Rose.</description>
     </item>
-    
+    <item>
+      <title>Match Report - AFC Rose (H)</title>
+      <link>http://localhost:1313/afcrose_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/afcrose_h_2324/</guid>
+      <description>Match Report - AFC Rose (H) A sunny Sunday morning in North London was the setting, with a ‘Rose Derby’ on the agenda. The game was delicately poised, with a win for either side making all the difference towards the top end of the table. Both teams came with significant support, and the game didn’t disappoint.&#xA;Starting XI: Rajan Ranu; Eric Schmidt, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou&#xD;AFC Roza, in pink, started fast and on the front foot, and got a goal inside 10 minutes.</description>
+    </item>
+    <item>
+      <title>Match Report - Barnet Borough (A)</title>
+      <link>http://localhost:1313/barnetborough_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/barnetborough_a_2324/</guid>
+      <description>Match Report - Barnet Borough (A) AFC Roza were back in action on Sunday, hoping that last week&amp;rsquo;s cancellation would not disrupt the strong run of form that we had been in over recent weeks. Although this was an away fixture, Barnet Borough are one of the teams who share the same home pitch as Roza - so it was familiar territory in the form of Enfield Powerleague.&#xA;There were a number of high profile absentees in the Roza squad including Chris Johnson, Iddo Razin and Eric Schmidt, but the boys were at least boosted by Ben Reynolds&amp;rsquo; return to the bench.</description>
+    </item>
+    <item>
+      <title>Match Report - Continental (A)</title>
+      <link>http://localhost:1313/conti_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conti_a_2324/</guid>
+      <description>Match Report - Continental (A) After two unfortunate results, where Roza harshly lost by one goal on consecutive occasions, Sunday was a test of mental strength as well as footballing quality for the boys - as we faced FC Continental. It was to be played on a muddy, wet Enfield Playing Fields; and with three games left of the season going into this one, the points on offer were extremely valuable ones.</description>
+    </item>
+    <item>
+      <title>Match Report - Continental (H)</title>
+      <link>http://localhost:1313/conti_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conti_h_2324/</guid>
+      <description>Match Report - Continental (H) It was a gloomy, windy home fixture for The Rose - the visitors today, Continental. Roza began today’s fixture at 3rd in the league and with the opportunity to leapfrog AFC Oakwood, we were eager to make a statement to the rest of the league.&#xA;Starting XI: Rajan Ranu; Rees Colgan, Giorgio Koullas, Chris Johnson, Jake Koumi; Michael Georgiades, Danny Smith, Saj Rajaratnam; Iddo Razin, Steph Savva, Alex Andreou&#xD;A strong first 10 minutes was characterised by dynamic and slick Rozaball.</description>
+    </item>
+    <item>
+      <title>Match Report - Fireside (A)</title>
+      <link>http://localhost:1313/fireside_a_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fireside_a_2324/</guid>
+      <description>Match Report - Fireside (A) As games up and down the country were postponed due to torrential rain, we were pleasantly surprised by the news that our away game against Fireside would go ahead on Sunday. With a few absentees, including both goalkeepers, we knew we had a tough test; but we were keen to find 3 points against a team who beat us earlier in the season.&#xA;Roza set up with a midfield diamond, a throwback to the 22/23 season where this system paid dividends in their journey to second place in the table.</description>
+    </item>
+    <item>
+      <title>Match Report - Trent Park (H)</title>
+      <link>http://localhost:1313/trent_h_2324/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trent_h_2324/</guid>
+      <description>Match Report - Trent Park (H) It was a freezing Sunday morning, but the Roza boys certainly heated up our Enfield Powerleague home pitch with an excellent performance against Trent Park. With Trent Park being an established side and going into the fixture in second place, it was a tough test for Roza who had lost three in a row going either side of Christmas; but it was a test that the boys passed with flying colours.</description>
+    </item>
+    <item>
+      <title>Miyagi Bonsai Player of the Month: February &#39;24</title>
+      <link>http://localhost:1313/mbpotm-feb24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mbpotm-feb24/</guid>
+      <description>Player of the Month: February 2024 And the Miyagi Bonsai Player of the Month for February 2024 is&amp;hellip;&#xA;Michael Georgiades! As one of the founding fathers, Michael G has always had a big part to play within the club off the pitch - but his influence on it has come leaps and bounds in recent months. He has established himself as a mainstay at the heart of the Roza engine room, and his combative nature combined with his composure has helped Roza throughout the season.</description>
+    </item>
+    <item>
+      <title>Miyagi Bonsai Player of the Month: January &#39;24</title>
+      <link>http://localhost:1313/mbpotm-jan24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mbpotm-jan24/</guid>
+      <description>Player of the Month: January 2024 And 2024&amp;rsquo;s first Miyagi Bonsai Player of the Month is&amp;hellip;&#xA;Giorgio Koullas! Giorgio has been an absolute rock at the heart of the Roza defence this month, commanding the back line with strong leadership and astute defending throughout. The team&amp;rsquo;s defensive cohesion has looked increasingly settled as the month has gone on, and Koullas&amp;rsquo; emerging centre-back partnership with Chris Johnson is certainly one of the main reasons for this.</description>
+    </item>
     <item>
       <title>Miyagi Bonsai Player of the Month: November &#39;23</title>
-      <link>https://www.afcroza.com/mbpotm-nov23/</link>
+      <link>http://localhost:1313/mbpotm-nov23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.afcroza.com/mbpotm-nov23/</guid>
-      <description>Player of the Month: November 2023 And your November 2023 Miyagi Bonsai Player of the Month is&amp;hellip;
-Cal Cook! Following in the footsteps of our first ever Player of the Month Steph Savva, our American attacking midfielder Cal Cook took the award for November.
-Cal had an excellent month in November, playing only 2 of our 3 fixtures but scoring 3 goals and assisting once in the process. His brace against PS Birlikspor helped us to a 4-0 win, in a game where he was causing problems for the defence throughout.</description>
+      <guid>http://localhost:1313/mbpotm-nov23/</guid>
+      <description>Player of the Month: November 2023 And your November 2023 Miyagi Bonsai Player of the Month is&amp;hellip;&#xA;Cal Cook! Following in the footsteps of our first ever Player of the Month Steph Savva, our American attacking midfielder Cal Cook took the award for November.&#xA;Cal had an excellent month in November, playing only 2 of our 3 fixtures but scoring 3 goals and assisting once in the process. His brace against PS Birlikspor helped us to a 4-0 win, in a game where he was causing problems for the defence throughout.</description>
     </item>
-    
   </channel>
 </rss>
