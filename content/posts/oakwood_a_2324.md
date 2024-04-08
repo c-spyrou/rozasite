@@ -26,7 +26,7 @@ Last time against this opposition, we were undeservedly beaten 2-3 at home, so t
 
 This confidence was personified when Roza dominated the game from the off. Alex Andreou was having plenty of joy down the left side, beating his marker for fun and having a couple of early attempts at goal. He turned provider for the opener though, pulling it across to Danny Smith - captain for this week's fixture - to expertly side-foot it into the top-right corner. A tough finish, made look easy by the Roza #39.
 
-Roza's lead was doubled on the 20-minute mark, when Deano Spyrou got his first goal of the season. Ben Reynolds fed it over to the right back who drove into the box, lashing the ball high into the Oakwood net and continuing the strong start that the whole team had worked for. 
+Roza's lead was doubled on the 20-minute mark, when Deano Spyrou got his first goal of the season. Ben Reynolds fed it over to the right back who drove into the box, lashing the ball high into the Oakwood net and continuing the strong start that the whole team had worked for.
 
 As expected with Sunday's physical opponents, tackles were flying in, elbows were being swung and derogatory names were heard at a noticeably quick rate - and this certainly wasn't calmed down when Saj Rajaratnam nodded in at the back post, making the score 0-3. Cal Cook, dangerous all game, put in a sumptuous cross which Rajaratnam rose to meet, once again displaying his unbelievable aerial prowess. At 3-0, Roza were in control going into the break, but the result was far from decided.
 
