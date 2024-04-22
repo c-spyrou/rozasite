@@ -48,7 +48,7 @@ From there on, Highgate missed a series of decent chances, but ultimately the Ro
 <br>
 
 
-Roza are not often those to celebrate dropped points, however we can look back fondly on the draw as a marker of the team’s progress in maturity and game management over the season. 6 months ago, the game may have ended differently. 
+Roza are not often those to celebrate dropped points, however we can look back fondly on the draw as a marker of the team’s progress in maturity and game management over the season. 6 months ago, the game may have ended differently.
 
 Man of the Match went to Nicholas Christou for a monstrous display; well deserved for someone how has been extremely patient all season long, and very good when called upon.
 
@@ -57,9 +57,9 @@ Man of the Match went to Nicholas Christou for a monstrous display; well deserve
 </div>
 <br>
 
-The season as a whole has been a productive one, lessons have been learnt, bonds have been built, and the team has grown into one that even the toughest don’t want to face. 
+The season as a whole has been a productive one, lessons have been learnt, bonds have been built, and the team has grown into one that even the toughest don’t want to face.
 
-Hungry for more, the Roza boys know they can be even better. And will be. 
+Hungry for more, the Roza boys know they can be even better. And will be.
 
 Next season promises to be a great one, but before then…. See you in  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/800px-Flag_of_Portugal.svg.png" width ="3%" alt = "Cyprus flag" /> !
 
