@@ -26,10 +26,18 @@ math: true
 <blockquote class="blockquote">
 <p>&#8220;Since the beginning, we have been a family-run business which prides itself on providing an exemplary customer service, whilst also ensuring honest, thorough, and efficient mechanical work, at a fair price, to our cherished and varied customers.</p> </blockquote> <br> <br>
 
-<h2 align=center> Birchtree Care </h2> <br>
+<h2 align=center> Inspirited Futures </h2> <br>
 
-<div style = text-align:center>
-<a href="https://birchtree.care"><img src="https://www.birchtree.care/images/logo-trans.png?cache=2" alt = "Birchtree Logo" /> </a> <br> <br>
+<div style = "text-align: center">
+<a href="https://inspiritedfutures.info/"><img src="/Images/thumbnail_inspirited crop.jpg" alt = "Inspirited Futures;" /></a> <br> <br>
 </div>
 <blockquote class="blockquote">
-<p>&#8220;Birchtree Housing provide accommodation care and support to vulnerable adults who are homeless, faced with pending homelessness or adults that require assistance with housing to private accommodation.</p> </blockquote> <br> <br>
+<p>&#8220;The organisation’s objectives are to provide a service that acts as a bridge from homelessness to independent living by supporting our clients to achieve the tools necessary to live sustainable, independent lives.</p> </blockquote> <br> <br>
+
+<h2 align=center> Ousia </h2> <br>
+
+<div style = text-align:center>
+<a href="https://ousia.co.uk/"><img src="/Images/ousia.jpg" alt = "Ousia Logo" /> </a> <br> <br>
+</div>
+<blockquote class="blockquote">
+<p>&#8220;Ousia encompasses two restaurants, both of which serving Greek Cypriot food in tapas styled dishes, exclusive cocktails and Mediterranean wine in the heart of Fitzrovia. </p> </blockquote> <br> <br>
