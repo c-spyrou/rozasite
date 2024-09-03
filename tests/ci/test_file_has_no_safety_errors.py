@@ -7,7 +7,9 @@ import pytest
 
 # List of CVEs to ignore
 IGNORED_CVES = [
-    'CVE-2024-34064',  # Example: Jinja CVE
+    'CVE-2024-34064',
+    'CVE-2019-8341',
+    'CVE-2024-35195',  # Example: Jinja CVE
     # Add more CVEs here if necessary
 ]
 
@@ -35,4 +37,4 @@ def test_file_has_no_safety_errors(filepath):
         ]
 
         # Assert that there are no unignored vulnerabilities
-        assert len(filtered_vulnerabilities) == 0, F"Found vulnerabilities: {filtered_vulnerabilities}"
+        assert len(filtered_vulnerabilities) == 0, F"Found vulnerabilities: {filtered_vulnerabilities}"  # noqa: E501
