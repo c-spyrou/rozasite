@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=734243150&teamID=597757996"  # noqa: E501
+url = "https://fulltime.thefa.com/displayTeam.html?divisionseason=114324112&teamID=597757996"  # noqa: E501
 
 # Set up the selenium webdriver
 chrome_options = Options()
