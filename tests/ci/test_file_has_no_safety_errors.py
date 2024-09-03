@@ -33,7 +33,7 @@ def test_file_has_no_safety_errors(filepath):
 
         # Filter out ignored vulnerabilities
         filtered_vulnerabilities = [
-            vuln for vuln in lint_json['vulnerabilities'] if vuln['CVE'] not in IGNORED_CVES
+            vuln for vuln in lint_json['vulnerabilities'] if vuln['CVE'] not in IGNORED_CVES  # noqa: E501
         ]
 
         # Assert that there are no unignored vulnerabilities
