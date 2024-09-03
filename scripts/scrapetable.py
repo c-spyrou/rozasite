@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # URL of the website to scrape
-url = "https://fulltime.thefa.com/index.html?selectedSeason=403346465&selectedFixtureGroupAgeGroup=0&selectedDivision=962266925&selectedCompetition=0"  # noqa: E501
+url = "https://fulltime.thefa.com/index.html?selectedSeason=367475322&selectedFixtureGroupAgeGroup=0&selectedDivision=944477311&selectedCompetition=0#tab-2"  # noqa: E501
 
 # Send a GET request to the URL
 response = requests.get(url)
