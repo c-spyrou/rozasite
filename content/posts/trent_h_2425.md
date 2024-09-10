@@ -41,7 +41,7 @@ Naturally, members of the Roza squad began to worry that, after going up three t
 
 Once again though, the strong mentality that has been built over the last few years playing together, came clutch. Under two minutes were remaining and we had a throw-in in our left-back position. Spyrou hauled it up the line, Smith flicked on to Reynolds, and then the latter played a ball across the pitch to Iddo Razin. Razin, who has scored multiple spectacular goals over the past few seasons, showed that this trend was not going to stop in the newest campaign. He set his sights, everyone held their breath, and when the ball dipped into the top of the goal to equalise, the Roza players and supporters erupted. It was a great moment, as Razin came to the rescue to secure us a point, with a curling effort from about 25 yards.
 
-This was far from a vintage Roza performance, but it was a valuable point against a strong opponent. As much as we'd have loved to take the three points, lots of value can be taken from the character shown, never saying die after a late goal putting us behind. We move on; and I have no doubts that our first win of the season will come soon.
+Sunday's game was certainly an exciting start to the season for the neutral and, although it was far from a vintage Roza performance, it was a valuable point against a strong opponent. As much as we'd have loved to take the three points, lots of value can be taken from the character shown, never saying die after a late goal putting us behind. We move on; and I have no doubts that our first win of the season will come soon.
 
 <h3 style= "font-size: 25px">
 We will keep battling. UTR!<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
