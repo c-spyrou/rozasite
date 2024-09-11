@@ -11,13 +11,16 @@
     <lastmod>2024-03-26T15:04:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fixtures/</loc>
-    <lastmod>2024-03-18T17:14:51+00:00</lastmod>
+    <lastmod>2024-04-21T17:14:06+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-11-30T11:00:15+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/table/</loc>
-    <lastmod>2024-03-19T17:14:04+00:00</lastmod>
+    <lastmod>2024-09-03T18:31:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oakwood_a_2324/</loc>
+    <lastmod>2024-04-08T11:22:24+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/afcrose_h_2324/</loc>
     <lastmod>2024-01-29T13:03:16+00:00</lastmod>
@@ -34,8 +37,14 @@
     <loc>http://localhost:1313/fireside_a_2324/</loc>
     <lastmod>2024-03-04T15:47:12+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hafc_a_2324/</loc>
+    <lastmod>2024-04-22T16:10:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/trent_h_2324/</loc>
     <lastmod>2024-01-29T12:59:48+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/trent_h_2425/</loc>
+    <lastmod>2024-09-10T18:16:57+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mbpotm-feb24/</loc>
     <lastmod>2024-03-13T14:56:18+00:00</lastmod>
@@ -47,22 +56,22 @@
     <lastmod>2023-12-12T12:22:49+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/</loc>
-    <lastmod>2024-03-13T14:54:30+00:00</lastmod>
+    <lastmod>2024-09-10T18:16:57+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/journey/</loc>
     <lastmod>2024-01-17T15:54:59+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-13T14:56:18+00:00</lastmod>
+    <lastmod>2024-09-10T18:16:57+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/shop/</loc>
     <lastmod>2024-01-17T11:29:26+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sponsors/</loc>
-    <lastmod>2024-01-09T12:34:47+00:00</lastmod>
+    <lastmod>2024-06-19T12:48:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/squad/</loc>
-    <lastmod>2024-03-26T15:04:08+00:00</lastmod>
+    <lastmod>2024-09-03T18:01:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
