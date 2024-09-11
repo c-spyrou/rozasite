@@ -37,3 +37,4 @@ jobs:
       with:
         name: test-results
         path: tests/ci/TEST-*.xml
+        overwrite: true
