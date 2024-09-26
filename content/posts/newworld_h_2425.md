@@ -40,4 +40,4 @@ The match ended 3-2, with the Roza boys understandably distraught. Despite the r
 
 <h3 style= "font-size: 25px">
 We will come back stronger. Up The Roza!<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
-</h3> 
+</h3>
