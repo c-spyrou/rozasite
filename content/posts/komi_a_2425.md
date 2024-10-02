@@ -34,7 +34,7 @@ Despite having chances to extend their lead to 3-1 with some good play for Alex 
 The defensive unit, led by an outstanding performance from Chris Johnson, held firm to limit Komi’s chances and secure the victory.
 
 
-Overall, it was a strong team performance from AFC Roza, giving the boys their first win of the season. 
+Overall, it was a strong team performance from AFC Roza, giving the boys their first win of the season.
 
 <h3 style= "font-size: 25px">
 #Onto the next - #UTR!!<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
