@@ -27,7 +27,7 @@ It certainly did feel like a turning point, as we began to find our way into opp
 
 Nonetheless, we went into half-time behind for the first time this season; there was plenty of work to do and improvement to find in the second half if we were to get anything.
 
-Roza were a different team after the break though, flying out of the blocks. An early Andreou chance was saved, before moments later he cut inside and sat the goalkeeper down with a delicious chip. The body language of both teams had changed, and Roza were clearly in the ascendancy, pushing to go ahead. 
+Roza were a different team after the break though, flying out of the blocks. An early Andreou chance was saved, before moments later he cut inside and sat the goalkeeper down with a delicious chip. The body language of both teams had changed, and Roza were clearly in the ascendancy, pushing to go ahead.
 
 Efforts from Savva, Andreou and Smith were evidence of Roza pushing for a much-needed 2-1 lead; but unfortunately it was the away side who went ahead. A goal-kick which didn't reach its target was overturned by Highgate who went on to take the lead against the run of play. 
 
