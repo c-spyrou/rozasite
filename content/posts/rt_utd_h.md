@@ -41,4 +41,3 @@ the goalkeeper off guard, firing a low yet powerful strike past him at the near 
 <h3 style= "font-size: 25px">
 We keep moving forward. UTR!<img src="/Images/rozabadge-removebg-preview.png" class="img-fluid" style="max-width: 50px;" alt="AFC Roza" />
 </h3>
-
